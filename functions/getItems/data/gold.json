@@ -1,0 +1,1602 @@
+[
+  {
+    "name": "Friendly Pirate",
+    "itemID": "19366445",
+    "itemWorth": 205070,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=19366445&width=420&height=420&format=png"
+  },
+  {
+    "name": ":-O",
+    "itemID": "15013192",
+    "itemWorth": 206695,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=15013192&width=420&height=420&format=png"
+  },
+  {
+    "name": "Gigglypuff",
+    "itemID": "35397243",
+    "itemWorth": 213592,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=35397243&width=420&height=420&format=png"
+  },
+  {
+    "name": "Shiny Teeth",
+    "itemID": "20722130",
+    "itemWorth": 204168,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=20722130&width=420&height=420&format=png"
+  },
+  {
+    "name": "Grr!",
+    "itemID": "19398554",
+    "itemWorth": 200860,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=19398554&width=420&height=420&format=png"
+  },
+  {
+    "name": "Sniffles",
+    "itemID": "14516578",
+    "itemWorth": 208266,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=14516578&width=420&height=420&format=png"
+  },
+  {
+    "name": "Happy Wink",
+    "itemID": "236399287",
+    "itemWorth": 215830,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=236399287&width=420&height=420&format=png"
+  },
+  {
+    "name": "Smith McCool",
+    "itemID": "27412825",
+    "itemWorth": 200107,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=27412825&width=420&height=420&format=png"
+  },
+  {
+    "name": "¬_¬ ",
+    "itemID": "406000958",
+    "itemWorth": 215830,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=406000958&width=420&height=420&format=png"
+  },
+  {
+    "name": "Hut Hut Hike!",
+    "itemID": "15470849",
+    "itemWorth": 203714,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=15470849&width=420&height=420&format=png"
+  },
+  {
+    "name": "Daydreaming",
+    "itemID": "29296146",
+    "itemWorth": 215493,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=29296146&width=420&height=420&format=png"
+  },
+  {
+    "name": "Oh Deer",
+    "itemID": "12145328",
+    "itemWorth": 201949,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=12145328&width=420&height=420&format=png"
+  },
+  {
+    "name": "$.$",
+    "itemID": "10831558",
+    "itemWorth": 203293,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=10831558&width=420&height=420&format=png"
+  },
+  {
+    "name": "Wink-Blink",
+    "itemID": "22828351",
+    "itemWorth": 213080,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=22828351&width=420&height=420&format=png"
+  },
+  {
+    "name": "Glory on the Gridiron",
+    "itemID": "21802396",
+    "itemWorth": 207719,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=21802396&width=420&height=420&format=png"
+  },
+  {
+    "name": "Starface",
+    "itemID": "32873408",
+    "itemWorth": 212552,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=32873408&width=420&height=420&format=png"
+  },
+  {
+    "name": "Commando",
+    "itemID": "10527010",
+    "itemWorth": 206733,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=10527010&width=420&height=420&format=png"
+  },
+  {
+    "name": "Bad Dog",
+    "itemID": "10678423",
+    "itemWorth": 215185,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=10678423&width=420&height=420&format=png"
+  },
+  {
+    "name": "^_^",
+    "itemID": "15366173",
+    "itemWorth": 202136,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=15366173&width=420&height=420&format=png"
+  },
+  {
+    "name": "I Hate Noobs",
+    "itemID": "14030577",
+    "itemWorth": 200786,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=14030577&width=420&height=420&format=png"
+  },
+  {
+    "name": "Robot Smile",
+    "itemID": "30265169",
+    "itemWorth": 208269,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=30265169&width=420&height=420&format=png"
+  },
+  {
+    "name": "Pony Face",
+    "itemID": "13656095",
+    "itemWorth": 201969,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=13656095&width=420&height=420&format=png"
+  },
+  {
+    "name": "Mr. Chuckles",
+    "itemID": "10907541",
+    "itemWorth": 205350,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=10907541&width=420&height=420&format=png"
+  },
+  {
+    "name": "Yawn",
+    "itemID": "20010377",
+    "itemWorth": 208502,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=20010377&width=420&height=420&format=png"
+  },
+  {
+    "name": "Friendly Puppy",
+    "itemID": "27725434",
+    "itemWorth": 211069,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=27725434&width=420&height=420&format=png"
+  },
+  {
+    "name": "Winky",
+    "itemID": "7074864",
+    "itemWorth": 214008,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=7074864&width=420&height=420&format=png"
+  },
+  {
+    "name": "Exclamation Face",
+    "itemID": "35168581",
+    "itemWorth": 201396,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=35168581&width=420&height=420&format=png"
+  },
+  {
+    "name": "Raccoon",
+    "itemID": "27052537",
+    "itemWorth": 212613,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=27052537&width=420&height=420&format=png"
+  },
+  {
+    "name": "Crazy Happy",
+    "itemID": "45515121",
+    "itemWorth": 214710,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=45515121&width=420&height=420&format=png"
+  },
+  {
+    "name": "O_o ",
+    "itemID": "66330265",
+    "itemWorth": 215943,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=66330265&width=420&height=420&format=png"
+  },
+  {
+    "name": "Visual Studio Seized Up For 45 Seconds... Again",
+    "itemID": "14083380",
+    "itemWorth": 211951,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=14083380&width=420&height=420&format=png"
+  },
+  {
+    "name": "Sigmund",
+    "itemID": "21311601",
+    "itemWorth": 213656,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=21311601&width=420&height=420&format=png"
+  },
+  {
+    "name": "Squiggle Mouth",
+    "itemID": "25166274",
+    "itemWorth": 215369,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=25166274&width=420&height=420&format=png"
+  },
+  {
+    "name": "D=",
+    "itemID": "17138027",
+    "itemWorth": 214456,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=17138027&width=420&height=420&format=png"
+  },
+  {
+    "name": "Awkward Grin",
+    "itemID": "150182501",
+    "itemWorth": 210119,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=150182501&width=420&height=420&format=png"
+  },
+  {
+    "name": "YAAAWWN.",
+    "itemID": "162068415",
+    "itemWorth": 210406,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=162068415&width=420&height=420&format=png"
+  },
+  {
+    "name": "D:",
+    "itemID": "14812981",
+    "itemWorth": 202658,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=14812981&width=420&height=420&format=png"
+  },
+  {
+    "name": "Fang",
+    "itemID": "7075142",
+    "itemWorth": 215444,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=7075142&width=420&height=420&format=png"
+  },
+  {
+    "name": "Sneaky Steve",
+    "itemID": "823012694",
+    "itemWorth": 203000,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=823012694&width=420&height=420&format=png"
+  },
+  {
+    "name": "Love",
+    "itemID": "11611321",
+    "itemWorth": 209067,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=11611321&width=420&height=420&format=png"
+  },
+  {
+    "name": "Smiling Girl",
+    "itemID": "209994875",
+    "itemWorth": 209211,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=209994875&width=420&height=420&format=png"
+  },
+  {
+    "name": "Walk the Plank You Scurvy Dogs!",
+    "itemID": "13478124",
+    "itemWorth": 210024,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=13478124&width=420&height=420&format=png"
+  },
+  {
+    "name": "I Didn't Eat That Cookie",
+    "itemID": "116042990",
+    "itemWorth": 207824,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=116042990&width=420&height=420&format=png"
+  },
+  {
+    "name": "Fast Car",
+    "itemID": "22587894",
+    "itemWorth": 214292,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=22587894&width=420&height=420&format=png"
+  },
+  {
+    "name": "Retro Smiley",
+    "itemID": "10770432",
+    "itemWorth": 215095,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=10770432&width=420&height=420&format=png"
+  },
+  {
+    "name": ":3",
+    "itemID": "15432080",
+    "itemWorth": 210156,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=15432080&width=420&height=420&format=png"
+  },
+  {
+    "name": "XD 2.0",
+    "itemID": "406001052",
+    "itemWorth": 215791,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=406001052&width=420&height=420&format=png"
+  },
+  {
+    "name": "Vampire",
+    "itemID": "29532363",
+    "itemWorth": 202387,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=29532363&width=420&height=420&format=png"
+  },
+  {
+    "name": ">_<",
+    "itemID": "15324577",
+    "itemWorth": 207818,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=15324577&width=420&height=420&format=png"
+  },
+  {
+    "name": "Friendly Cyclops",
+    "itemID": "30394438",
+    "itemWorth": 203700,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=30394438&width=420&height=420&format=png"
+  },
+  {
+    "name": "Alien",
+    "itemID": "31317701",
+    "itemWorth": 201994,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=31317701&width=420&height=420&format=png"
+  },
+  {
+    "name": "I wuv u",
+    "itemID": "10907545",
+    "itemWorth": 212408,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=10907545&width=420&height=420&format=png"
+  },
+  {
+    "name": "Disbelief",
+    "itemID": "20337343",
+    "itemWorth": 210073,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=20337343&width=420&height=420&format=png"
+  },
+  {
+    "name": "Xtreme Happy",
+    "itemID": "20644021",
+    "itemWorth": 213876,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=20644021&width=420&height=420&format=png"
+  },
+  {
+    "name": "Secret Service",
+    "itemID": "20612949",
+    "itemWorth": 207398,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=20612949&width=420&height=420&format=png"
+  },
+  {
+    "name": ":-/",
+    "itemID": "15471035",
+    "itemWorth": 201478,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=15471035&width=420&height=420&format=png"
+  },
+  {
+    "name": "Awkward....",
+    "itemID": "23932048",
+    "itemWorth": 208396,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=23932048&width=420&height=420&format=png"
+  },
+  {
+    "name": "Ghostface",
+    "itemID": "12467159",
+    "itemWorth": 214225,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=12467159&width=420&height=420&format=png"
+  },
+  {
+    "name": "Smug",
+    "itemID": "406001308",
+    "itemWorth": 213894,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=406001308&width=420&height=420&format=png"
+  },
+  {
+    "name": "You ated my caik!",
+    "itemID": "21635583",
+    "itemWorth": 208618,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=21635583&width=420&height=420&format=png"
+  },
+  {
+    "name": "Anime Surprise",
+    "itemID": "416846300",
+    "itemWorth": 205690,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=416846300&width=420&height=420&format=png"
+  },
+  {
+    "name": "Err...",
+    "itemID": "20418658",
+    "itemWorth": 210264,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=20418658&width=420&height=420&format=png"
+  },
+  {
+    "name": "Cheerful Hello",
+    "itemID": "362051644",
+    "itemWorth": 207245,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=362051644&width=420&height=420&format=png"
+  },
+  {
+    "name": "And then we'll take over the world!",
+    "itemID": "12732366",
+    "itemWorth": 201346,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=12732366&width=420&height=420&format=png"
+  },
+  {
+    "name": "NOWAI!",
+    "itemID": "51241862",
+    "itemWorth": 207854,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=51241862&width=420&height=420&format=png"
+  },
+  {
+    "name": "Magical Dragon",
+    "itemID": "34871168",
+    "itemWorth": 200547,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=34871168&width=420&height=420&format=png"
+  },
+  {
+    "name": "Bluffing",
+    "itemID": "147144673",
+    "itemWorth": 203360,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=147144673&width=420&height=420&format=png"
+  },
+  {
+    "name": "Singing",
+    "itemID": "66330310",
+    "itemWorth": 210584,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=66330310&width=420&height=420&format=png"
+  },
+  {
+    "name": "Classic Alien Face",
+    "itemID": "159199178",
+    "itemWorth": 210827,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=159199178&width=420&height=420&format=png"
+  },
+  {
+    "name": "Downcast",
+    "itemID": "21352013",
+    "itemWorth": 215232,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=21352013&width=420&height=420&format=png"
+  },
+  {
+    "name": "Lightning Speaker",
+    "itemID": "22588801",
+    "itemWorth": 213275,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=22588801&width=420&height=420&format=png"
+  },
+  {
+    "name": ":-o",
+    "itemID": "7317773",
+    "itemWorth": 212531,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=7317773&width=420&height=420&format=png"
+  },
+  {
+    "name": "Chubs",
+    "itemID": "7076110",
+    "itemWorth": 213028,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=7076110&width=420&height=420&format=png"
+  },
+  {
+    "name": "Alien Ambassador",
+    "itemID": "11913700",
+    "itemWorth": 210873,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=11913700&width=420&height=420&format=png"
+  },
+  {
+    "name": "NetHack Addict",
+    "itemID": "16357383",
+    "itemWorth": 214410,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=16357383&width=420&height=420&format=png"
+  },
+  {
+    "name": "The Friendly Eviscerator",
+    "itemID": "22500129",
+    "itemWorth": 202477,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=22500129&width=420&height=420&format=png"
+  },
+  {
+    "name": "Puck",
+    "itemID": "20298988",
+    "itemWorth": 210511,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=20298988&width=420&height=420&format=png"
+  },
+  {
+    "name": ":-[",
+    "itemID": "15470193",
+    "itemWorth": 213105,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=15470193&width=420&height=420&format=png"
+  },
+  {
+    "name": "Toothy Grin",
+    "itemID": "7075434",
+    "itemWorth": 210591,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=7075434&width=420&height=420&format=png"
+  },
+  {
+    "name": "Sly Guy Face",
+    "itemID": "238983378",
+    "itemWorth": 206416,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=238983378&width=420&height=420&format=png"
+  },
+  {
+    "name": ">:3",
+    "itemID": "15177601",
+    "itemWorth": 209830,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=15177601&width=420&height=420&format=png"
+  },
+  {
+    "name": "Daring",
+    "itemID": "8329690",
+    "itemWorth": 203834,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=8329690&width=420&height=420&format=png"
+  },
+  {
+    "name": "Pumpkin Face",
+    "itemID": "313549781",
+    "itemWorth": 210934,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=313549781&width=420&height=420&format=png"
+  },
+  {
+    "name": "Classic Goof",
+    "itemID": "7074661",
+    "itemWorth": 205442,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=7074661&width=420&height=420&format=png"
+  },
+  {
+    "name": "Daring Beard",
+    "itemID": "110288809",
+    "itemWorth": 200077,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=110288809&width=420&height=420&format=png"
+  },
+  {
+    "name": "Laughing Fun",
+    "itemID": "226217449",
+    "itemWorth": 214218,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=226217449&width=420&height=420&format=png"
+  },
+  {
+    "name": "Stare",
+    "itemID": "8560971",
+    "itemWorth": 203235,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=8560971&width=420&height=420&format=png"
+  },
+  {
+    "name": "Just Trouble",
+    "itemID": "244160766",
+    "itemWorth": 213463,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=244160766&width=420&height=420&format=png"
+  },
+  {
+    "name": "Overjoyed Smile",
+    "itemID": "1428416217",
+    "itemWorth": 211966,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=1428416217&width=420&height=420&format=png"
+  },
+  {
+    "name": "O.o",
+    "itemID": "7074595",
+    "itemWorth": 214236,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=7074595&width=420&height=420&format=png"
+  },
+  {
+    "name": "Meow?",
+    "itemID": "10907529",
+    "itemWorth": 212830,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=10907529&width=420&height=420&format=png"
+  },
+  {
+    "name": "Monster Face",
+    "itemID": "49045351",
+    "itemWorth": 206668,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=49045351&width=420&height=420&format=png"
+  },
+  {
+    "name": "-_-",
+    "itemID": "15637848",
+    "itemWorth": 203409,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=15637848&width=420&height=420&format=png"
+  },
+  {
+    "name": "Uh Oh",
+    "itemID": "7074944",
+    "itemWorth": 207526,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=7074944&width=420&height=420&format=png"
+  },
+  {
+    "name": "eXtreme",
+    "itemID": "10831454",
+    "itemWorth": 214977,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=10831454&width=420&height=420&format=png"
+  },
+  {
+    "name": "Sweat It Out",
+    "itemID": "20909103",
+    "itemWorth": 213663,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=20909103&width=420&height=420&format=png"
+  },
+  {
+    "name": ":-/",
+    "itemID": "7075469",
+    "itemWorth": 212758,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=7075469&width=420&height=420&format=png"
+  },
+  {
+    "name": "Mysterious",
+    "itemID": "7132035",
+    "itemWorth": 212140,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=7132035&width=420&height=420&format=png"
+  },
+  {
+    "name": "Tango",
+    "itemID": "16101765",
+    "itemWorth": 202419,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=16101765&width=420&height=420&format=png"
+  },
+  {
+    "name": "Toughguy",
+    "itemID": "21439665",
+    "itemWorth": 209880,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=21439665&width=420&height=420&format=png"
+  },
+  {
+    "name": "Spring Bunny ",
+    "itemID": "110207437",
+    "itemWorth": 213724,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=110207437&width=420&height=420&format=png"
+  },
+  {
+    "name": "Drill Sergeant",
+    "itemID": "141728899",
+    "itemWorth": 214177,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=141728899&width=420&height=420&format=png"
+  },
+  {
+    "name": "Awkward Eyeroll",
+    "itemID": "150182378",
+    "itemWorth": 210966,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=150182378&width=420&height=420&format=png"
+  },
+  {
+    "name": "Timmy McPwnage",
+    "itemID": "22023062",
+    "itemWorth": 212627,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=22023062&width=420&height=420&format=png"
+  },
+  {
+    "name": "Chippy McTooth",
+    "itemID": "7317769",
+    "itemWorth": 200879,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=7317769&width=420&height=420&format=png"
+  },
+  {
+    "name": "Too Much Candy",
+    "itemID": "295763789",
+    "itemWorth": 206591,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=295763789&width=420&height=420&format=png"
+  },
+  {
+    "name": "ROAR!!!",
+    "itemID": "406001167",
+    "itemWorth": 214886,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=406001167&width=420&height=420&format=png"
+  },
+  {
+    "name": "Disapproving Unibrow",
+    "itemID": "66330360",
+    "itemWorth": 210256,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=66330360&width=420&height=420&format=png"
+  },
+  {
+    "name": "Drooling Noob",
+    "itemID": "24067718",
+    "itemWorth": 201651,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=24067718&width=420&height=420&format=png"
+  },
+  {
+    "name": "Sick Day",
+    "itemID": "26619096",
+    "itemWorth": 213859,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=26619096&width=420&height=420&format=png"
+  },
+  {
+    "name": "It's Go Time!",
+    "itemID": "7506141",
+    "itemWorth": 215469,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=7506141&width=420&height=420&format=png"
+  },
+  {
+    "name": "Suspicious",
+    "itemID": "209994929",
+    "itemWorth": 206691,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=209994929&width=420&height=420&format=png"
+  },
+  {
+    "name": "Tired Face",
+    "itemID": "141728790",
+    "itemWorth": 204187,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=141728790&width=420&height=420&format=png"
+  },
+  {
+    "name": "ROBLOX Madness Face",
+    "itemID": "130213380",
+    "itemWorth": 202409,
+    "itemType": "face",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=130213380&width=420&height=420&format=png"
+  },
+  {
+    "name": "New Years Kitty",
+    "itemID": "2620477453",
+    "itemWorth": 200973,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=2620477453&width=420&height=420&format=png"
+  },
+  {
+    "name": "Asimo3089 Shoulder Pet",
+    "itemID": "4712364919",
+    "itemWorth": 204280,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4712364919&width=420&height=420&format=png"
+  },
+  {
+    "name": "berezaa Pal",
+    "itemID": "4771827260",
+    "itemWorth": 213733,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4771827260&width=420&height=420&format=png"
+  },
+  {
+    "name": "Anix Shoulder Pal",
+    "itemID": "4586451559",
+    "itemWorth": 204784,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4586451559&width=420&height=420&format=png"
+  },
+  {
+    "name": "badcc",
+    "itemID": "4739613500",
+    "itemWorth": 202805,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4739613500&width=420&height=420&format=png"
+  },
+  {
+    "name": "Bacon Buddy",
+    "itemID": "4710303488",
+    "itemWorth": 205487,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4710303488&width=420&height=420&format=png"
+  },
+  {
+    "name": "Rainway",
+    "itemID": "4510712680",
+    "itemWorth": 214498,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4510712680&width=420&height=420&format=png"
+  },
+  {
+    "name": "Conor3D",
+    "itemID": "4712111424",
+    "itemWorth": 208786,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4712111424&width=420&height=420&format=png"
+  },
+  {
+    "name": "Wallflower Shoulder Friend",
+    "itemID": "3087134567",
+    "itemWorth": 206958,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=3087134567&width=420&height=420&format=png"
+  },
+  {
+    "name": "Bat Buddy",
+    "itemID": "4879168489",
+    "itemWorth": 203403,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4879168489&width=420&height=420&format=png"
+  },
+  {
+    "name": "Boxy from LankyBox",
+    "itemID": "4879846121",
+    "itemWorth": 209033,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4879846121&width=420&height=420&format=png"
+  },
+  {
+    "name": "StuntDesigner Pal",
+    "itemID": "4772287526",
+    "itemWorth": 204423,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4772287526&width=420&height=420&format=png"
+  },
+  {
+    "name": "Bandites ",
+    "itemID": "4797530207",
+    "itemWorth": 211657,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4797530207&width=420&height=420&format=png"
+  },
+  {
+    "name": "BIG Buddy",
+    "itemID": "4794167149",
+    "itemWorth": 206619,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4794167149&width=420&height=420&format=png"
+  },
+  {
+    "name": "Miss Snaps",
+    "itemID": "4797613047",
+    "itemWorth": 209612,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4797613047&width=420&height=420&format=png"
+  },
+  {
+    "name": "Gentleman Rock",
+    "itemID": "4771521822",
+    "itemWorth": 211158,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4771521822&width=420&height=420&format=png"
+  },
+  {
+    "name": "Kamp Koala Summer Pal",
+    "itemID": "3210212446",
+    "itemWorth": 203744,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=3210212446&width=420&height=420&format=png"
+  },
+  {
+    "name": "Very Festive Sophie",
+    "itemID": "2648511796",
+    "itemWorth": 207382,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=2648511796&width=420&height=420&format=png"
+  },
+  {
+    "name": "Raincoat Duck Shoulder Friend",
+    "itemID": "3111953386",
+    "itemWorth": 213028,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=3111953386&width=420&height=420&format=png"
+  },
+  {
+    "name": "Shoulder Bunny",
+    "itemID": "4684185393",
+    "itemWorth": 214982,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4684185393&width=420&height=420&format=png"
+  },
+  {
+    "name": "Nomrial Mini: Ukaroz",
+    "itemID": "4586043603",
+    "itemWorth": 204138,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4586043603&width=420&height=420&format=png"
+  },
+  {
+    "name": "Nomrial Mini: Thalis",
+    "itemID": "4630725561",
+    "itemWorth": 214659,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4630725561&width=420&height=420&format=png"
+  },
+  {
+    "name": "Nomrial Mini: Ultimus",
+    "itemID": "4584698379",
+    "itemWorth": 209787,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4584698379&width=420&height=420&format=png"
+  },
+  {
+    "name": "Nomrial Mini: Conios",
+    "itemID": "4525749709",
+    "itemWorth": 209895,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4525749709&width=420&height=420&format=png"
+  },
+  {
+    "name": "Right Silver Epaulette",
+    "itemID": "4370163832",
+    "itemWorth": 210728,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4370163832&width=420&height=420&format=png"
+  },
+  {
+    "name": "Left Silver Epaulette",
+    "itemID": "4370167375",
+    "itemWorth": 203195,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4370167375&width=420&height=420&format=png"
+  },
+  {
+    "name": "Cybird",
+    "itemID": "4875534311",
+    "itemWorth": 213467,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4875534311&width=420&height=420&format=png"
+  },
+  {
+    "name": "Left Ceremonial Epaulette",
+    "itemID": "4465135538",
+    "itemWorth": 212873,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4465135538&width=420&height=420&format=png"
+  },
+  {
+    "name": "Right Ceremonial Epaulette",
+    "itemID": "4465134255",
+    "itemWorth": 211923,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4465134255&width=420&height=420&format=png"
+  },
+  {
+    "name": "Ninja Nunchucks",
+    "itemID": "4826151311",
+    "itemWorth": 211812,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4826151311&width=420&height=420&format=png"
+  },
+  {
+    "name": "Pet Stack",
+    "itemID": "4391173687",
+    "itemWorth": 211683,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4391173687&width=420&height=420&format=png"
+  },
+  {
+    "name": "Shoulder Turrets",
+    "itemID": "4466054848",
+    "itemWorth": 213924,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4466054848&width=420&height=420&format=png"
+  },
+  {
+    "name": "Optimism Rover Shoulder Friend",
+    "itemID": "2878628932",
+    "itemWorth": 201824,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=2878628932&width=420&height=420&format=png"
+  },
+  {
+    "name": "Little Green Man Shoulder Accessory",
+    "itemID": "2956234932",
+    "itemWorth": 206347,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=2956234932&width=420&height=420&format=png"
+  },
+  {
+    "name": "Avocado Friend",
+    "itemID": "4739393416",
+    "itemWorth": 210164,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4739393416&width=420&height=420&format=png"
+  },
+  {
+    "name": "Dragon Hatchling Friend",
+    "itemID": "3933090947",
+    "itemWorth": 215323,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=3933090947&width=420&height=420&format=png"
+  },
+  {
+    "name": "Left Silver Pauldron of the Void",
+    "itemID": "4603629636",
+    "itemWorth": 204176,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4603629636&width=420&height=420&format=png"
+  },
+  {
+    "name": "8-Bit Rubber Duck Shoulder Friend",
+    "itemID": "3454751815",
+    "itemWorth": 203815,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=3454751815&width=420&height=420&format=png"
+  },
+  {
+    "name": "Right Silver Pauldron of the Void",
+    "itemID": "4603630740",
+    "itemWorth": 207332,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4603630740&width=420&height=420&format=png"
+  },
+  {
+    "name": "Magical Red Scarf",
+    "itemID": "4692671750",
+    "itemWorth": 215759,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4692671750&width=420&height=420&format=png"
+  },
+  {
+    "name": "Midnight Howler Shoulder Friend Wolf",
+    "itemID": "2222618605",
+    "itemWorth": 214338,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=2222618605&width=420&height=420&format=png"
+  },
+  {
+    "name": "Balloon Animal Shoulder Friend",
+    "itemID": "2735492963",
+    "itemWorth": 205390,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=2735492963&width=420&height=420&format=png"
+  },
+  {
+    "name": "Atticus, the Swift",
+    "itemID": "2565916373",
+    "itemWorth": 210223,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=2565916373&width=420&height=420&format=png"
+  },
+  {
+    "name": "Black Shoulder Turrets",
+    "itemID": "4846938142",
+    "itemWorth": 214349,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4846938142&width=420&height=420&format=png"
+  },
+  {
+    "name": "Corporate Ninja",
+    "itemID": "21754973",
+    "itemWorth": 210014,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=21754973&width=420&height=420&format=png"
+  },
+  {
+    "name": "Buddy's Blue Baseball Cap",
+    "itemID": "417457845",
+    "itemWorth": 203258,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=417457845&width=420&height=420&format=png"
+  },
+  {
+    "name": "Happy Clown",
+    "itemID": "16984857",
+    "itemWorth": 207433,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=16984857&width=420&height=420&format=png"
+  },
+  {
+    "name": "Dark Leather Cap",
+    "itemID": "111904592",
+    "itemWorth": 210793,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=111904592&width=420&height=420&format=png"
+  },
+  {
+    "name": "Outdoor Outing Hat",
+    "itemID": "1743923820",
+    "itemWorth": 213280,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=1743923820&width=420&height=420&format=png"
+  },
+  {
+    "name": "Wizard's Apprentice",
+    "itemID": "57001168",
+    "itemWorth": 209564,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=57001168&width=420&height=420&format=png"
+  },
+  {
+    "name": "Gourmet Chef",
+    "itemID": "12314404",
+    "itemWorth": 207374,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=12314404&width=420&height=420&format=png"
+  },
+  {
+    "name": "Ugly Monster Knit",
+    "itemID": "125861360",
+    "itemWorth": 200223,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=125861360&width=420&height=420&format=png"
+  },
+  {
+    "name": "Electrospeed",
+    "itemID": "97852119",
+    "itemWorth": 209167,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=97852119&width=420&height=420&format=png"
+  },
+  {
+    "name": "Patterned Painter's Hat",
+    "itemID": "100933115",
+    "itemWorth": 211173,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=100933115&width=420&height=420&format=png"
+  },
+  {
+    "name": "Redcliff Archer ",
+    "itemID": "55808818",
+    "itemWorth": 200966,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=55808818&width=420&height=420&format=png"
+  },
+  {
+    "name": "Operation Desert Cyclone",
+    "itemID": "18151473",
+    "itemWorth": 214559,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=18151473&width=420&height=420&format=png"
+  },
+  {
+    "name": "Island Princess",
+    "itemID": "24793955",
+    "itemWorth": 206706,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=24793955&width=420&height=420&format=png"
+  },
+  {
+    "name": "Aussie Slouch",
+    "itemID": "10860590",
+    "itemWorth": 205904,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=10860590&width=420&height=420&format=png"
+  },
+  {
+    "name": "Picnic Hat",
+    "itemID": "1051577",
+    "itemWorth": 200616,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=1051577&width=420&height=420&format=png"
+  },
+  {
+    "name": "Virtual Reality Mask",
+    "itemID": "28057660",
+    "itemWorth": 209901,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=28057660&width=420&height=420&format=png"
+  },
+  {
+    "name": "Euro Skate Helmet",
+    "itemID": "100426046",
+    "itemWorth": 212784,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=100426046&width=420&height=420&format=png"
+  },
+  {
+    "name": "Mizaru",
+    "itemID": "29532720",
+    "itemWorth": 215339,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=29532720&width=420&height=420&format=png"
+  },
+  {
+    "name": "Townsy Tumblers Football Helmet",
+    "itemID": "498751331",
+    "itemWorth": 203725,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=498751331&width=420&height=420&format=png"
+  },
+  {
+    "name": "Cyan Football Helmet",
+    "itemID": "7703661",
+    "itemWorth": 204507,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=7703661&width=420&height=420&format=png"
+  },
+  {
+    "name": "Kikazaru",
+    "itemID": "32661578",
+    "itemWorth": 207862,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=32661578&width=420&height=420&format=png"
+  },
+  {
+    "name": "Lua Lions Football Helmet",
+    "itemID": "100930474",
+    "itemWorth": 213893,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=100930474&width=420&height=420&format=png"
+  },
+  {
+    "name": "Dumpsville Dummies Football Helmet",
+    "itemID": "15469898",
+    "itemWorth": 205922,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=15469898&width=420&height=420&format=png"
+  },
+  {
+    "name": "St. Pat's Roman Helmet",
+    "itemID": "2956231431",
+    "itemWorth": 210767,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=2956231431&width=420&height=420&format=png"
+  },
+  {
+    "name": "Iwazaru",
+    "itemID": "28171753",
+    "itemWorth": 202621,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=28171753&width=420&height=420&format=png"
+  },
+  {
+    "name": "Yo Dawg",
+    "itemID": "33683309",
+    "itemWorth": 203198,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=33683309&width=420&height=420&format=png"
+  },
+  {
+    "name": "Buddy's Black Cap",
+    "itemID": "3210191970",
+    "itemWorth": 204354,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=3210191970&width=420&height=420&format=png"
+  },
+  {
+    "name": "Ludicrous Floppy Hat With Unreasonably Large Bow",
+    "itemID": "18015906",
+    "itemWorth": 202044,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=18015906&width=420&height=420&format=png"
+  },
+  {
+    "name": "ROBLOX Warriors Football Helmet",
+    "itemID": "15469575",
+    "itemWorth": 207360,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=15469575&width=420&height=420&format=png"
+  },
+  {
+    "name": "Musketeer",
+    "itemID": "11849078",
+    "itemWorth": 208147,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=11849078&width=420&height=420&format=png"
+  },
+  {
+    "name": "Doctor's Reflector",
+    "itemID": "23630696",
+    "itemWorth": 200114,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=23630696&width=420&height=420&format=png"
+  },
+  {
+    "name": "Animal Hoodie",
+    "itemID": "24341586",
+    "itemWorth": 211910,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=24341586&width=420&height=420&format=png"
+  },
+  {
+    "name": "Horned Menace",
+    "itemID": "52490497",
+    "itemWorth": 201296,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=52490497&width=420&height=420&format=png"
+  },
+  {
+    "name": "Barton Bruisers",
+    "itemID": "21804873",
+    "itemWorth": 201496,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=21804873&width=420&height=420&format=png"
+  },
+  {
+    "name": "Pemberley Punishers",
+    "itemID": "21804842",
+    "itemWorth": 200223,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=21804842&width=420&height=420&format=png"
+  },
+  {
+    "name": "Flamenco Dancer",
+    "itemID": "11328774",
+    "itemWorth": 210267,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=11328774&width=420&height=420&format=png"
+  },
+  {
+    "name": "Classy Cloche",
+    "itemID": "113332985",
+    "itemWorth": 205813,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=113332985&width=420&height=420&format=png"
+  },
+  {
+    "name": "Beta Squadron",
+    "itemID": "21069877",
+    "itemWorth": 209109,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=21069877&width=420&height=420&format=png"
+  },
+  {
+    "name": "Imperial Shako",
+    "itemID": "13477121",
+    "itemWorth": 214666,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=13477121&width=420&height=420&format=png"
+  },
+  {
+    "name": "Stylish Sailor",
+    "itemID": "63642258",
+    "itemWorth": 214145,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=63642258&width=420&height=420&format=png"
+  },
+  {
+    "name": "Druid Hood",
+    "itemID": "54925475",
+    "itemWorth": 210946,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=54925475&width=420&height=420&format=png"
+  },
+  {
+    "name": "Azurewrath's Return",
+    "itemID": "59190543",
+    "itemWorth": 212955,
+    "itemType": "gear",
+    "limited": true,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=59190543&width=420&height=420&format=png"
+  }
+]

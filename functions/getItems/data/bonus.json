@@ -1,0 +1,90 @@
+[
+    {
+      "name": "Legendary Egg of Gygax",
+      "itemID": "1532388",
+      "itemWorth": 5078,
+      "itemType": "hat",
+      "limited": false,
+      "img": "https://www.roblox.com/asset-thumbnail/image?assetId=1532388&width=420&height=420&format=png"
+    },
+    {
+      "name": "Captain Doge",
+      "itemID": "155670995",
+      "itemWorth": 4230,
+      "itemType": "hat",
+      "limited": true,
+      "img": "https://www.roblox.com/asset-thumbnail/image?assetId=155670995&width=420&height=420&format=png"
+    },
+    {
+      "name": "Countess of the Federation",
+      "itemID": "188003914",
+      "itemWorth": 5782,
+      "itemType": "hat",
+      "limited": true,
+      "img": "https://www.roblox.com/asset-thumbnail/image?assetId=188003914&width=420&height=420&format=png"
+    },
+    {
+      "name": "Retro 80s Headphones",
+      "itemID": "29844011",
+      "itemWorth": 5039,
+      "itemType": "hat",
+      "limited": true,
+      "img": "https://www.roblox.com/asset-thumbnail/image?assetId=29844011&width=420&height=420&format=png"
+    },
+    {
+      "name": "Bluesteel Domino Crown",
+      "itemID": "68258723",
+      "itemWorth": 3290,
+      "itemType": "hat",
+      "limited": false,
+      "img": "https://www.roblox.com/asset-thumbnail/image?assetId=68258723&width=420&height=420&format=png"
+    },
+    {
+      "name": "Bluesteel Fedora",
+      "itemID": "98346834",
+      "itemWorth": 5855,
+      "itemType": "hat",
+      "limited": true,
+      "img": "https://www.roblox.com/asset-thumbnail/image?assetId=98346834&width=420&height=420&format=png"
+    },
+    {
+      "name": "Voidwrath",
+      "itemID": "562478132",
+      "itemWorth": 3544,
+      "itemType": "hat",
+      "limited": true,
+      "img": "https://www.roblox.com/asset-thumbnail/image?assetId=562478132&width=420&height=420&format=png"
+    },
+    {
+      "name": "Peach Thug Shades",
+      "itemID": "97852103",
+      "itemWorth": 3661,
+      "itemType": "face accessory",
+      "limited": true,
+      "img": "https://www.roblox.com/asset-thumbnail/image?assetId=97852103&width=420&height=420&format=png"
+    },
+    {
+      "name": "Green Sparkle Time Fedora",
+      "itemID": "100929604",
+      "itemWorth": 5160,
+      "itemType": "hat",
+      "limited": true,
+      "img": "https://www.roblox.com/asset-thumbnail/image?assetId=100929604&width=420&height=420&format=png"
+    },
+    {
+      "name": "The Golden Robloxian",
+      "itemID": "2799053",
+      "itemWorth": 3935,
+      "itemType": "hat",
+      "limited": false,
+      "img": "https://www.roblox.com/asset-thumbnail/image?assetId=2799053&width=420&height=420&format=png"
+    },
+    {
+      "name": "Blackvalk",
+      "itemID": "124730194",
+      "itemWorth": 3364,
+      "itemType": "hat",
+      "limited": false,
+      "img": "https://www.roblox.com/asset-thumbnail/image?assetId=124730194&width=420&height=420&format=png"
+    }
+  ]

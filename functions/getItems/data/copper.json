@@ -1,0 +1,1602 @@
+[
+  {
+    "name": "Mauser .96",
+    "itemID": "97885552",
+    "itemWorth": 5575,
+    "itemType": "gear",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=97885552&width=420&height=420&format=png"
+  },
+  {
+    "name": "PE Whistle",
+    "itemID": "128160832",
+    "itemWorth": 5238,
+    "itemType": "gear",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=128160832&width=420&height=420&format=png"
+  },
+  {
+    "name": "Red Fidget Spinner",
+    "itemID": "928806888",
+    "itemWorth": 5416,
+    "itemType": "gear",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=928806888&width=420&height=420&format=png"
+  },
+  {
+    "name": "Ostrichsized Winter Scarf",
+    "itemID": "99266546",
+    "itemWorth": 5412,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=99266546&width=420&height=420&format=png"
+  },
+  {
+    "name": "Black Winter Scarf",
+    "itemID": "4369396289",
+    "itemWorth": 5367,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4369396289&width=420&height=420&format=png"
+  },
+  {
+    "name": "Icecream Narwhal",
+    "itemID": "4690553788",
+    "itemWorth": 5040,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4690553788&width=420&height=420&format=png"
+  },
+  {
+    "name": "Valentie",
+    "itemID": "46158923",
+    "itemWorth": 5374,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=46158923&width=420&height=420&format=png"
+  },
+  {
+    "name": "Neon Scarf",
+    "itemID": "99857301",
+    "itemWorth": 5387,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=99857301&width=420&height=420&format=png"
+  },
+  {
+    "name": "Harmonious Scales Scarf",
+    "itemID": "638093988",
+    "itemWorth": 5287,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=638093988&width=420&height=420&format=png"
+  },
+  {
+    "name": "Neon Green Bow Tie",
+    "itemID": "253490243",
+    "itemWorth": 5295,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=253490243&width=420&height=420&format=png"
+  },
+  {
+    "name": "Purple Winter Scarf",
+    "itemID": "323420663",
+    "itemWorth": 5111,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=323420663&width=420&height=420&format=png"
+  },
+  {
+    "name": "Crimson Winter Scarf",
+    "itemID": "99860652",
+    "itemWorth": 5019,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=99860652&width=420&height=420&format=png"
+  },
+  {
+    "name": "Dog Tags  ",
+    "itemID": "31312480",
+    "itemWorth": 5374,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=31312480&width=420&height=420&format=png"
+  },
+  {
+    "name": "Cat Tags",
+    "itemID": "134824163",
+    "itemWorth": 5481,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=134824163&width=420&height=420&format=png"
+  },
+  {
+    "name": "Skinny Tie",
+    "itemID": "30379217",
+    "itemWorth": 5405,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=30379217&width=420&height=420&format=png"
+  },
+  {
+    "name": "Frosted Pine Cone Necklace",
+    "itemID": "2620415081",
+    "itemWorth": 5358,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=2620415081&width=420&height=420&format=png"
+  },
+  {
+    "name": "Pinata Bow Tie",
+    "itemID": "3138461720",
+    "itemWorth": 5531,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=3138461720&width=420&height=420&format=png"
+  },
+  {
+    "name": "Video Game Tie",
+    "itemID": "121925323",
+    "itemWorth": 5128,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=121925323&width=420&height=420&format=png"
+  },
+  {
+    "name": "Golden Four Leaf Clover Bow Tie",
+    "itemID": "2956233017",
+    "itemWorth": 5187,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=2956233017&width=420&height=420&format=png"
+  },
+  {
+    "name": "Space Tie",
+    "itemID": "1001653158",
+    "itemWorth": 5558,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=1001653158&width=420&height=420&format=png"
+  },
+  {
+    "name": "White Turtle Neck",
+    "itemID": "4507926110",
+    "itemWorth": 5076,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4507926110&width=420&height=420&format=png"
+  },
+  {
+    "name": "Red Turtle Neck",
+    "itemID": "4493026581",
+    "itemWorth": 5499,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4493026581&width=420&height=420&format=png"
+  },
+  {
+    "name": "Black Turtle Neck",
+    "itemID": "4378579302",
+    "itemWorth": 5137,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4378579302&width=420&height=420&format=png"
+  },
+  {
+    "name": "Fluffy Collar",
+    "itemID": "4524497759",
+    "itemWorth": 5055,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4524497759&width=420&height=420&format=png"
+  },
+  {
+    "name": "Bowtie Ribbon",
+    "itemID": "4753148374",
+    "itemWorth": 5460,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4753148374&width=420&height=420&format=png"
+  },
+  {
+    "name": "Bowtie Ribbon",
+    "itemID": "4753148828",
+    "itemWorth": 5320,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4753148828&width=420&height=420&format=png"
+  },
+  {
+    "name": "Handmade Necklace",
+    "itemID": "32057338",
+    "itemWorth": 5236,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=32057338&width=420&height=420&format=png"
+  },
+  {
+    "name": "Blue Jade Necklace",
+    "itemID": "28505395",
+    "itemWorth": 5042,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=28505395&width=420&height=420&format=png"
+  },
+  {
+    "name": "Lucky Ladybug Scarf",
+    "itemID": "413198552",
+    "itemWorth": 5359,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=413198552&width=420&height=420&format=png"
+  },
+  {
+    "name": "Scarf (3.0)",
+    "itemID": "4879395087",
+    "itemWorth": 5132,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4879395087&width=420&height=420&format=png"
+  },
+  {
+    "name": "Cotton Candy Bowtie",
+    "itemID": "4082661279",
+    "itemWorth": 5426,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4082661279&width=420&height=420&format=png"
+  },
+  {
+    "name": "Ref's Whistle",
+    "itemID": "28672417",
+    "itemWorth": 5070,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=28672417&width=420&height=420&format=png"
+  },
+  {
+    "name": "Wild Neon Blue Scarf",
+    "itemID": "261830247",
+    "itemWorth": 5382,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=261830247&width=420&height=420&format=png"
+  },
+  {
+    "name": "Instant Camera",
+    "itemID": "4584704386",
+    "itemWorth": 5350,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4584704386&width=420&height=420&format=png"
+  },
+  {
+    "name": "Blue Wooden Bead Necklace",
+    "itemID": "4684605448",
+    "itemWorth": 5434,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4684605448&width=420&height=420&format=png"
+  },
+  {
+    "name": "Camp Director Whistle",
+    "itemID": "450556327",
+    "itemWorth": 5115,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=450556327&width=420&height=420&format=png"
+  },
+  {
+    "name": "Steampunk Gear Necktie",
+    "itemID": "2830766683",
+    "itemWorth": 5258,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=2830766683&width=420&height=420&format=png"
+  },
+  {
+    "name": "Grungy Necklace",
+    "itemID": "4524990924",
+    "itemWorth": 5520,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4524990924&width=420&height=420&format=png"
+  },
+  {
+    "name": "Christmas Lights Necklace",
+    "itemID": "42844216",
+    "itemWorth": 5570,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=42844216&width=420&height=420&format=png"
+  },
+  {
+    "name": "Blue Instant Camera",
+    "itemID": "4686269091",
+    "itemWorth": 5028,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4686269091&width=420&height=420&format=png"
+  },
+  {
+    "name": "Neckerchief",
+    "itemID": "4132827482",
+    "itemWorth": 5362,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4132827482&width=420&height=420&format=png"
+  },
+  {
+    "name": "Black Shirt Collar",
+    "itemID": "4875438186",
+    "itemWorth": 5399,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4875438186&width=420&height=420&format=png"
+  },
+  {
+    "name": "Solar System Necklace",
+    "itemID": "2316745515",
+    "itemWorth": 5230,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=2316745515&width=420&height=420&format=png"
+  },
+  {
+    "name": "Rainbow Necktie",
+    "itemID": "151787596",
+    "itemWorth": 5344,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=151787596&width=420&height=420&format=png"
+  },
+  {
+    "name": "Diamond Plated Tie",
+    "itemID": "58786663",
+    "itemWorth": 5006,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=58786663&width=420&height=420&format=png"
+  },
+  {
+    "name": "Chewy The Hamster",
+    "itemID": "4882531774",
+    "itemWorth": 5209,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4882531774&width=420&height=420&format=png"
+  },
+  {
+    "name": "Underwater Cabbage Tie",
+    "itemID": "188003832",
+    "itemWorth": 5075,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=188003832&width=420&height=420&format=png"
+  },
+  {
+    "name": "Green Instant Camera",
+    "itemID": "4736489737",
+    "itemWorth": 5379,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4736489737&width=420&height=420&format=png"
+  },
+  {
+    "name": "Neon Necktie",
+    "itemID": "678278463",
+    "itemWorth": 5322,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=678278463&width=420&height=420&format=png"
+  },
+  {
+    "name": "Dopamine Necklace",
+    "itemID": "1001649517",
+    "itemWorth": 5456,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=1001649517&width=420&height=420&format=png"
+  },
+  {
+    "name": "Golden Heart Necklace",
+    "itemID": "4524870728",
+    "itemWorth": 5095,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4524870728&width=420&height=420&format=png"
+  },
+  {
+    "name": "Ok Boomer Bling",
+    "itemID": "4487955592",
+    "itemWorth": 5546,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4487955592&width=420&height=420&format=png"
+  },
+  {
+    "name": "Silver Pendant Necklace",
+    "itemID": "4846578500",
+    "itemWorth": 5482,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4846578500&width=420&height=420&format=png"
+  },
+  {
+    "name": "Vibe Check Chain",
+    "itemID": "4580524953",
+    "itemWorth": 5165,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4580524953&width=420&height=420&format=png"
+  },
+  {
+    "name": "Yellow Instant Camera",
+    "itemID": "4719544157",
+    "itemWorth": 5428,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4719544157&width=420&height=420&format=png"
+  },
+  {
+    "name": "Epic Face Tie",
+    "itemID": "51352999",
+    "itemWorth": 5555,
+    "itemType": "neck accessory",
+    "limited": true,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=51352999&width=420&height=420&format=png"
+  },
+  {
+    "name": "Starlet Disguise",
+    "itemID": "185894927",
+    "itemWorth": 5482,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=185894927&width=420&height=420&format=png"
+  },
+  {
+    "name": "Tasteless Bow Tie",
+    "itemID": "250395898",
+    "itemWorth": 5292,
+    "itemType": "neck accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=250395898&width=420&height=420&format=png"
+  },
+  {
+    "name": "Sapphire Starstone of the Federation",
+    "itemID": "1744246930",
+    "itemWorth": 5098,
+    "itemType": "neck accessory",
+    "limited": true,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=1744246930&width=420&height=420&format=png"
+  },
+  {
+    "name": "Painter's Cap",
+    "itemID": "1046288029",
+    "itemWorth": 5349,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=1046288029&width=420&height=420&format=png"
+  },
+  {
+    "name": "Fine China Ramen Bowl",
+    "itemID": "1609404722",
+    "itemWorth": 5274,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=1609404722&width=420&height=420&format=png"
+  },
+  {
+    "name": "Red Plaid Golf Cap",
+    "itemID": "125861531",
+    "itemWorth": 5407,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=125861531&width=420&height=420&format=png"
+  },
+  {
+    "name": "Canada Styles",
+    "itemID": "29890746",
+    "itemWorth": 5026,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=29890746&width=420&height=420&format=png"
+  },
+  {
+    "name": "Ramen Bowl",
+    "itemID": "19400471",
+    "itemWorth": 5310,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=19400471&width=420&height=420&format=png"
+  },
+  {
+    "name": "Kbux's Accountant Visor",
+    "itemID": "45340093",
+    "itemWorth": 5449,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=45340093&width=420&height=420&format=png"
+  },
+  {
+    "name": "WWII Infantry Helmet",
+    "itemID": "10911958",
+    "itemWorth": 5178,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=10911958&width=420&height=420&format=png"
+  },
+  {
+    "name": "Birdimal Beanie",
+    "itemID": "57778376",
+    "itemWorth": 5096,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=57778376&width=420&height=420&format=png"
+  },
+  {
+    "name": "Camp ROBLOX ",
+    "itemID": "122275601",
+    "itemWorth": 5420,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=122275601&width=420&height=420&format=png"
+  },
+  {
+    "name": "Veteran's Day Cap",
+    "itemID": "39072316",
+    "itemWorth": 5437,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=39072316&width=420&height=420&format=png"
+  },
+  {
+    "name": "Thinking Cap",
+    "itemID": "27814348",
+    "itemWorth": 5387,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=27814348&width=420&height=420&format=png"
+  },
+  {
+    "name": "Panic Cap",
+    "itemID": "1743941933",
+    "itemWorth": 5515,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=1743941933&width=420&height=420&format=png"
+  },
+  {
+    "name": "Dance Cap",
+    "itemID": "430065187",
+    "itemWorth": 5369,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=430065187&width=420&height=420&format=png"
+  },
+  {
+    "name": "Goggly Eyed Party Hat",
+    "itemID": "244159992",
+    "itemWorth": 5592,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=244159992&width=420&height=420&format=png"
+  },
+  {
+    "name": "Brown Riding Hood ",
+    "itemID": "102623080",
+    "itemWorth": 5370,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=102623080&width=420&height=420&format=png"
+  },
+  {
+    "name": "Golden Eagles Marching Band",
+    "itemID": "14082269",
+    "itemWorth": 5047,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=14082269&width=420&height=420&format=png"
+  },
+  {
+    "name": "Snowboarding Beanie",
+    "itemID": "100930416",
+    "itemWorth": 5432,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=100930416&width=420&height=420&format=png"
+  },
+  {
+    "name": "Fastfood Worker",
+    "itemID": "14670997",
+    "itemWorth": 5020,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=14670997&width=420&height=420&format=png"
+  },
+  {
+    "name": "Boarder Beanie",
+    "itemID": "105332476",
+    "itemWorth": 5363,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=105332476&width=420&height=420&format=png"
+  },
+  {
+    "name": "2016 Graduation Cap",
+    "itemID": "425118283",
+    "itemWorth": 5079,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=425118283&width=420&height=420&format=png"
+  },
+  {
+    "name": "Bright Beanie",
+    "itemID": "27456067",
+    "itemWorth": 5201,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=27456067&width=420&height=420&format=png"
+  },
+  {
+    "name": "Graduation Cap 2018",
+    "itemID": "1744219293",
+    "itemWorth": 5391,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=1744219293&width=420&height=420&format=png"
+  },
+  {
+    "name": "Cycling Cap",
+    "itemID": "26618780",
+    "itemWorth": 5319,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=26618780&width=420&height=420&format=png"
+  },
+  {
+    "name": "Bucket Thief",
+    "itemID": "26297003",
+    "itemWorth": 5142,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=26297003&width=420&height=420&format=png"
+  },
+  {
+    "name": "Punk Kid",
+    "itemID": "102619342",
+    "itemWorth": 5383,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=102619342&width=420&height=420&format=png"
+  },
+  {
+    "name": "Germany Cap",
+    "itemID": "26018456",
+    "itemWorth": 5326,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=26018456&width=420&height=420&format=png"
+  },
+  {
+    "name": "Antennae",
+    "itemID": "1374256",
+    "itemWorth": 5262,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=1374256&width=420&height=420&format=png"
+  },
+  {
+    "name": "Melon Head",
+    "itemID": "16218214",
+    "itemWorth": 5110,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=16218214&width=420&height=420&format=png"
+  },
+  {
+    "name": "United Kingdom Baseball Cap",
+    "itemID": "25309082",
+    "itemWorth": 5084,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=25309082&width=420&height=420&format=png"
+  },
+  {
+    "name": "Rasta Hat",
+    "itemID": "10658799",
+    "itemWorth": 5254,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=10658799&width=420&height=420&format=png"
+  },
+  {
+    "name": "Silly Alien",
+    "itemID": "35631086",
+    "itemWorth": 5136,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=35631086&width=420&height=420&format=png"
+  },
+  {
+    "name": "Australia Cap",
+    "itemID": "44852876",
+    "itemWorth": 5570,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=44852876&width=420&height=420&format=png"
+  },
+  {
+    "name": "Red Antennae",
+    "itemID": "1743925331",
+    "itemWorth": 5038,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=1743925331&width=420&height=420&format=png"
+  },
+  {
+    "name": "Funky Monkey",
+    "itemID": "25272547",
+    "itemWorth": 5406,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=25272547&width=420&height=420&format=png"
+  },
+  {
+    "name": "Paper Crown",
+    "itemID": "39247385",
+    "itemWorth": 5109,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=39247385&width=420&height=420&format=png"
+  },
+  {
+    "name": "Traffic Cop",
+    "itemID": "20721308",
+    "itemWorth": 5444,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=20721308&width=420&height=420&format=png"
+  },
+  {
+    "name": "Classic Fisherman's Cap",
+    "itemID": "125886373",
+    "itemWorth": 5348,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=125886373&width=420&height=420&format=png"
+  },
+  {
+    "name": "Sleepy Mouse Cap",
+    "itemID": "439943629",
+    "itemWorth": 5377,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=439943629&width=420&height=420&format=png"
+  },
+  {
+    "name": "Soldier's Beret",
+    "itemID": "28039675",
+    "itemWorth": 5186,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=28039675&width=420&height=420&format=png"
+  },
+  {
+    "name": "Snowboarder Beanie",
+    "itemID": "22925278",
+    "itemWorth": 5530,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=22925278&width=420&height=420&format=png"
+  },
+  {
+    "name": "Violet Ribbons",
+    "itemID": "150337814",
+    "itemWorth": 5555,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=150337814&width=420&height=420&format=png"
+  },
+  {
+    "name": "Raging Bull Head",
+    "itemID": "3403876606",
+    "itemWorth": 5585,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=3403876606&width=420&height=420&format=png"
+  },
+  {
+    "name": "Netherlands Cap",
+    "itemID": "122277235",
+    "itemWorth": 5295,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=122277235&width=420&height=420&format=png"
+  },
+  {
+    "name": "I PWN Dragons Cap",
+    "itemID": "1060281222",
+    "itemWorth": 5181,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=1060281222&width=420&height=420&format=png"
+  },
+  {
+    "name": "I <3 Hot Cocoa",
+    "itemID": "143635121",
+    "itemWorth": 5021,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=143635121&width=420&height=420&format=png"
+  },
+  {
+    "name": "Generic Baseball Cap",
+    "itemID": "116073941",
+    "itemWorth": 5070,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=116073941&width=420&height=420&format=png"
+  },
+  {
+    "name": "Red Steampunk Robin Hood",
+    "itemID": "638098596",
+    "itemWorth": 5199,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=638098596&width=420&height=420&format=png"
+  },
+  {
+    "name": "Gearhead Cap",
+    "itemID": "244160223",
+    "itemWorth": 5592,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=244160223&width=420&height=420&format=png"
+  },
+  {
+    "name": "Unicorn Horn",
+    "itemID": "9255093",
+    "itemWorth": 5586,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=9255093&width=420&height=420&format=png"
+  },
+  {
+    "name": "Santa Knit with Beard",
+    "itemID": "191098596",
+    "itemWorth": 5565,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=191098596&width=420&height=420&format=png"
+  },
+  {
+    "name": "Deerly Beloved Beanie",
+    "itemID": "2535090812",
+    "itemWorth": 5530,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=2535090812&width=420&height=420&format=png"
+  },
+  {
+    "name": "Painter's Cap",
+    "itemID": "335134402",
+    "itemWorth": 5528,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=335134402&width=420&height=420&format=png"
+  },
+  {
+    "name": "Blue Punk Star Beanie",
+    "itemID": "188663553",
+    "itemWorth": 5095,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=188663553&width=420&height=420&format=png"
+  },
+  {
+    "name": "Hip Grey Beanie",
+    "itemID": "243773374",
+    "itemWorth": 5045,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=243773374&width=420&height=420&format=png"
+  },
+  {
+    "name": "Purple Bicycle Helmet",
+    "itemID": "116777050",
+    "itemWorth": 5119,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=116777050&width=420&height=420&format=png"
+  },
+  {
+    "name": "ROBLOX Santa",
+    "itemID": "19398728",
+    "itemWorth": 5370,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=19398728&width=420&height=420&format=png"
+  },
+  {
+    "name": "Too Chill Cap",
+    "itemID": "2588170650",
+    "itemWorth": 5143,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=2588170650&width=420&height=420&format=png"
+  },
+  {
+    "name": "Bandit the Bumbling Puppy",
+    "itemID": "16157957",
+    "itemWorth": 5131,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=16157957&width=420&height=420&format=png"
+  },
+  {
+    "name": "Sci-fi Baseball Cap",
+    "itemID": "3533881225",
+    "itemWorth": 5547,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=3533881225&width=420&height=420&format=png"
+  },
+  {
+    "name": "Strawberries on Topper",
+    "itemID": "3339391802",
+    "itemWorth": 5233,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=3339391802&width=420&height=420&format=png"
+  },
+  {
+    "name": "Plaid Lad",
+    "itemID": "102611588",
+    "itemWorth": 5068,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=102611588&width=420&height=420&format=png"
+  },
+  {
+    "name": "Recycled Finery ",
+    "itemID": "402303713",
+    "itemWorth": 5332,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=402303713&width=420&height=420&format=png"
+  },
+  {
+    "name": "Kwanzaa Snowman",
+    "itemID": "2620452806",
+    "itemWorth": 5341,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=2620452806&width=420&height=420&format=png"
+  },
+  {
+    "name": "Violet Star Moto Helmet",
+    "itemID": "317592615",
+    "itemWorth": 5555,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=317592615&width=420&height=420&format=png"
+  },
+  {
+    "name": "1st Day of School Baseball Cap",
+    "itemID": "128157644",
+    "itemWorth": 5581,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=128157644&width=420&height=420&format=png"
+  },
+  {
+    "name": "Lucky Shamrock Beanie",
+    "itemID": "380202148",
+    "itemWorth": 5355,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=380202148&width=420&height=420&format=png"
+  },
+  {
+    "name": "Blue Striped Cap",
+    "itemID": "96678397",
+    "itemWorth": 5006,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=96678397&width=420&height=420&format=png"
+  },
+  {
+    "name": "Postal Pal",
+    "itemID": "32710961",
+    "itemWorth": 5420,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=32710961&width=420&height=420&format=png"
+  },
+  {
+    "name": "Graffiti Cap",
+    "itemID": "108829464",
+    "itemWorth": 5289,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=108829464&width=420&height=420&format=png"
+  },
+  {
+    "name": "Ice Cream Beanie",
+    "itemID": "2706158056",
+    "itemWorth": 5294,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=2706158056&width=420&height=420&format=png"
+  },
+  {
+    "name": "Rock Cap",
+    "itemID": "493482462",
+    "itemWorth": 5317,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=493482462&width=420&height=420&format=png"
+  },
+  {
+    "name": "Pink Spring Bonnet",
+    "itemID": "375817661",
+    "itemWorth": 5374,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=375817661&width=420&height=420&format=png"
+  },
+  {
+    "name": "Candy Styles Scarf and Hat",
+    "itemID": "562493075",
+    "itemWorth": 5577,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=562493075&width=420&height=420&format=png"
+  },
+  {
+    "name": "Exoflex Spax Helmex",
+    "itemID": "17735403",
+    "itemWorth": 5471,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=17735403&width=420&height=420&format=png"
+  },
+  {
+    "name": "New York Cap",
+    "itemID": "125861039",
+    "itemWorth": 5017,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=125861039&width=420&height=420&format=png"
+  },
+  {
+    "name": "8-Bit Baseball Cap",
+    "itemID": "542163408",
+    "itemWorth": 5263,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=542163408&width=420&height=420&format=png"
+  },
+  {
+    "name": "Beary Chilly Baseball Cap",
+    "itemID": "568897032",
+    "itemWorth": 5399,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=568897032&width=420&height=420&format=png"
+  },
+  {
+    "name": "'R' Cap",
+    "itemID": "34901393",
+    "itemWorth": 5189,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=34901393&width=420&height=420&format=png"
+  },
+  {
+    "name": "Deckhand ",
+    "itemID": "105340816",
+    "itemWorth": 5256,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=105340816&width=420&height=420&format=png"
+  },
+  {
+    "name": "Colorful Cadet",
+    "itemID": "116778636",
+    "itemWorth": 5434,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=116778636&width=420&height=420&format=png"
+  },
+  {
+    "name": "Baseball Helmet",
+    "itemID": "16131034",
+    "itemWorth": 5450,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=16131034&width=420&height=420&format=png"
+  },
+  {
+    "name": "Red Rover",
+    "itemID": "31758695",
+    "itemWorth": 5537,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=31758695&width=420&height=420&format=png"
+  },
+  {
+    "name": "Golf Master Cap",
+    "itemID": "93053082",
+    "itemWorth": 5205,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=93053082&width=420&height=420&format=png"
+  },
+  {
+    "name": "Fort Buster",
+    "itemID": "18821214",
+    "itemWorth": 5201,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=18821214&width=420&height=420&format=png"
+  },
+  {
+    "name": "Hooded Horned Ice Warrior",
+    "itemID": "2620431730",
+    "itemWorth": 5224,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=2620431730&width=420&height=420&format=png"
+  },
+  {
+    "name": "Magnificent Derby Headband",
+    "itemID": "3138459673",
+    "itemWorth": 5200,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=3138459673&width=420&height=420&format=png"
+  },
+  {
+    "name": "Kufi",
+    "itemID": "19399503",
+    "itemWorth": 5227,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=19399503&width=420&height=420&format=png"
+  },
+  {
+    "name": "Improvised Straw Hat",
+    "itemID": "113328418",
+    "itemWorth": 5160,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=113328418&width=420&height=420&format=png"
+  },
+  {
+    "name": "Coffee Cap",
+    "itemID": "161211138",
+    "itemWorth": 5409,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=161211138&width=420&height=420&format=png"
+  },
+  {
+    "name": "Hockey Star",
+    "itemID": "27724631",
+    "itemWorth": 5565,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=27724631&width=420&height=420&format=png"
+  },
+  {
+    "name": "EPIC Baseball Cap ",
+    "itemID": "362030739",
+    "itemWorth": 5150,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=362030739&width=420&height=420&format=png"
+  },
+  {
+    "name": "All Seeing Eye Straw Hat",
+    "itemID": "116777206",
+    "itemWorth": 5581,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=116777206&width=420&height=420&format=png"
+  },
+  {
+    "name": "LOL Beanie",
+    "itemID": "266769148",
+    "itemWorth": 5030,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=266769148&width=420&height=420&format=png"
+  },
+  {
+    "name": "Bagpiper Hat",
+    "itemID": "33740327",
+    "itemWorth": 5571,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=33740327&width=420&height=420&format=png"
+  },
+  {
+    "name": "Army Private",
+    "itemID": "51242756",
+    "itemWorth": 5269,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=51242756&width=420&height=420&format=png"
+  },
+  {
+    "name": "Black Sk8er Beanie with Visor",
+    "itemID": "61886689",
+    "itemWorth": 5360,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=61886689&width=420&height=420&format=png"
+  },
+  {
+    "name": "Lily Bowler",
+    "itemID": "3087106170",
+    "itemWorth": 5368,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=3087106170&width=420&height=420&format=png"
+  },
+  {
+    "name": "Lily Sunhat",
+    "itemID": "3086934085",
+    "itemWorth": 5596,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=3086934085&width=420&height=420&format=png"
+  },
+  {
+    "name": "Townie",
+    "itemID": "20418400",
+    "itemWorth": 5331,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=20418400&width=420&height=420&format=png"
+  },
+  {
+    "name": "Fall Fashion",
+    "itemID": "38248983",
+    "itemWorth": 5315,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=38248983&width=420&height=420&format=png"
+  },
+  {
+    "name": "The Star Chef ",
+    "itemID": "96678446",
+    "itemWorth": 5085,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=96678446&width=420&height=420&format=png"
+  },
+  {
+    "name": "Brazil Cap",
+    "itemID": "122276647",
+    "itemWorth": 5421,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=122276647&width=420&height=420&format=png"
+  },
+  {
+    "name": "YOLO Sailor",
+    "itemID": "271016558",
+    "itemWorth": 5480,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=271016558&width=420&height=420&format=png"
+  },
+  {
+    "name": "Obvious Spy Cap",
+    "itemID": "277857132",
+    "itemWorth": 5362,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=277857132&width=420&height=420&format=png"
+  },
+  {
+    "name": "Operator Cap",
+    "itemID": "124753872",
+    "itemWorth": 5083,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=124753872&width=420&height=420&format=png"
+  },
+  {
+    "name": "Kitty Ears",
+    "itemID": "1374269",
+    "itemWorth": 5243,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=1374269&width=420&height=420&format=png"
+  },
+  {
+    "name": "Dinosaur Hair Bows",
+    "itemID": "207158037",
+    "itemWorth": 5215,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=207158037&width=420&height=420&format=png"
+  },
+  {
+    "name": "Worldwide Traveler Cap",
+    "itemID": "122284842",
+    "itemWorth": 5175,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=122284842&width=420&height=420&format=png"
+  },
+  {
+    "name": "ROBLOX U Beanie",
+    "itemID": "173784332",
+    "itemWorth": 5360,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=173784332&width=420&height=420&format=png"
+  },
+  {
+    "name": "Open Mind Cap",
+    "itemID": "135473949",
+    "itemWorth": 5513,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=135473949&width=420&height=420&format=png"
+  },
+  {
+    "name": "Sun Acolyte",
+    "itemID": "13207429",
+    "itemWorth": 5520,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=13207429&width=420&height=420&format=png"
+  },
+  {
+    "name": "Lemon Lime Visor",
+    "itemID": "115301502",
+    "itemWorth": 5399,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=115301502&width=420&height=420&format=png"
+  },
+  {
+    "name": "Teal Fashion Cap",
+    "itemID": "120506165",
+    "itemWorth": 5516,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=120506165&width=420&height=420&format=png"
+  },
+  {
+    "name": "KnitJa",
+    "itemID": "340623628",
+    "itemWorth": 5589,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=340623628&width=420&height=420&format=png"
+  },
+  {
+    "name": "Wizards of the Astral Isles Baseball Cap",
+    "itemID": "483305507",
+    "itemWorth": 5219,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=483305507&width=420&height=420&format=png"
+  },
+  {
+    "name": "Blue Spring Topper",
+    "itemID": "108147364",
+    "itemWorth": 5135,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=108147364&width=420&height=420&format=png"
+  },
+  {
+    "name": "Beary Ridiculous Baseball Cap",
+    "itemID": "113329164",
+    "itemWorth": 5194,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=113329164&width=420&height=420&format=png"
+  },
+  {
+    "name": "Warm Woolly Hat",
+    "itemID": "136790829",
+    "itemWorth": 5361,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=136790829&width=420&height=420&format=png"
+  },
+  {
+    "name": "Atomic Beanie",
+    "itemID": "503950463",
+    "itemWorth": 5484,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=503950463&width=420&height=420&format=png"
+  },
+  {
+    "name": "Astronaut Helmet",
+    "itemID": "1081366",
+    "itemWorth": 5259,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=1081366&width=420&height=420&format=png"
+  },
+  {
+    "name": "Black Fur Cap",
+    "itemID": "21681881",
+    "itemWorth": 5063,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=21681881&width=420&height=420&format=png"
+  },
+  {
+    "name": "Green Sock Hat",
+    "itemID": "22588913",
+    "itemWorth": 5216,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=22588913&width=420&height=420&format=png"
+  },
+  {
+    "name": "Apprentice Wizard Hat",
+    "itemID": "13149521",
+    "itemWorth": 5146,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=13149521&width=420&height=420&format=png"
+  },
+  {
+    "name": "Cardboard Box",
+    "itemID": "28998419",
+    "itemWorth": 5094,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=28998419&width=420&height=420&format=png"
+  },
+  {
+    "name": "Monster Wet Suit",
+    "itemID": "25308810",
+    "itemWorth": 5105,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=25308810&width=420&height=420&format=png"
+  },
+  {
+    "name": "Paper Hat",
+    "itemID": "10476359",
+    "itemWorth": 5437,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=10476359&width=420&height=420&format=png"
+  },
+  {
+    "name": "Rainbow Knit Beanie",
+    "itemID": "375823023",
+    "itemWorth": 5186,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=375823023&width=420&height=420&format=png"
+  },
+  {
+    "name": "Snowchet Cap",
+    "itemID": "136791461",
+    "itemWorth": 5172,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=136791461&width=420&height=420&format=png"
+  },
+  {
+    "name": "UMADBRO Cap",
+    "itemID": "174796211",
+    "itemWorth": 5533,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=174796211&width=420&height=420&format=png"
+  },
+  {
+    "name": "Lil' Kitty Cap",
+    "itemID": "3756447657",
+    "itemWorth": 5021,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=3756447657&width=420&height=420&format=png"
+  },
+  {
+    "name": "Bunny Ears Cap",
+    "itemID": "3756303924",
+    "itemWorth": 5098,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=3756303924&width=420&height=420&format=png"
+  },
+  {
+    "name": "History of ROBLOX: Volume I",
+    "itemID": "124745808",
+    "itemWorth": 5238,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=124745808&width=420&height=420&format=png"
+  },
+  {
+    "name": "True Ninja of Brilliant Illumination",
+    "itemID": "46839135",
+    "itemWorth": 5221,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=46839135&width=420&height=420&format=png"
+  },
+  {
+    "name": "Robber Beanie",
+    "itemID": "81708856",
+    "itemWorth": 5515,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=81708856&width=420&height=420&format=png"
+  },
+  {
+    "name": "Watermelon Cap",
+    "itemID": "472605458",
+    "itemWorth": 5117,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=472605458&width=420&height=420&format=png"
+  },
+  {
+    "name": "Mariachi Sombrero",
+    "itemID": "3138460373",
+    "itemWorth": 5201,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=3138460373&width=420&height=420&format=png"
+  },
+  {
+    "name": "Toxic Waste Cap",
+    "itemID": "362080690",
+    "itemWorth": 5053,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=362080690&width=420&height=420&format=png"
+  },
+  {
+    "name": "Mrs. Robot",
+    "itemID": "417457992",
+    "itemWorth": 5289,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=417457992&width=420&height=420&format=png"
+  },
+  {
+    "name": "Mr. Robot",
+    "itemID": "16179349",
+    "itemWorth": 5536,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=16179349&width=420&height=420&format=png"
+  },
+  {
+    "name": "Blind Rogue",
+    "itemID": "22160652",
+    "itemWorth": 5290,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=22160652&width=420&height=420&format=png"
+  },
+  {
+    "name": "Nurse Hat",
+    "itemID": "10770260",
+    "itemWorth": 5190,
+    "itemType": "hat",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=10770260&width=420&height=420&format=png"
+  }
+]

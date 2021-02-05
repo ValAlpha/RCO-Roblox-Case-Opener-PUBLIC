@@ -1,0 +1,1602 @@
+[
+  {
+    "name": "Hypercooled Aquavision Goggles",
+    "itemID": "29347789",
+    "itemWorth": 10295101,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=29347789&width=420&height=420&format=png"
+  },
+  {
+    "name": "Zebra Mask",
+    "itemID": "119100409",
+    "itemWorth": 10098950,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=119100409&width=420&height=420&format=png"
+  },
+  {
+    "name": "Zombie Glasses",
+    "itemID": "4083170219",
+    "itemWorth": 10300822,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4083170219&width=420&height=420&format=png"
+  },
+  {
+    "name": "Cracked Porcelain Face",
+    "itemID": "4708210325",
+    "itemWorth": 10277401,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4708210325&width=420&height=420&format=png"
+  },
+  {
+    "name": "Tri-section shades",
+    "itemID": "2222718753",
+    "itemWorth": 10342099,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=2222718753&width=420&height=420&format=png"
+  },
+  {
+    "name": "Earth Shades",
+    "itemID": "238902632",
+    "itemWorth": 10162482,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=238902632&width=420&height=420&format=png"
+  },
+  {
+    "name": "Trendsetter Sunnies",
+    "itemID": "4803167732",
+    "itemWorth": 10049968,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4803167732&width=420&height=420&format=png"
+  },
+  {
+    "name": "Crazy Professor Glasses",
+    "itemID": "48607764",
+    "itemWorth": 10026653,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=48607764&width=420&height=420&format=png"
+  },
+  {
+    "name": "Emotimask : Cute",
+    "itemID": "4904153006",
+    "itemWorth": 10245246,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4904153006&width=420&height=420&format=png"
+  },
+  {
+    "name": "Piercing Shades",
+    "itemID": "4545292342",
+    "itemWorth": 10182864,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4545292342&width=420&height=420&format=png"
+  },
+  {
+    "name": "Tris Shades",
+    "itemID": "4822200136",
+    "itemWorth": 10232334,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4822200136&width=420&height=420&format=png"
+  },
+  {
+    "name": "Devilish Goatee",
+    "itemID": "4142997121",
+    "itemWorth": 10358155,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4142997121&width=420&height=420&format=png"
+  },
+  {
+    "name": "Eye Poppers",
+    "itemID": "15727015",
+    "itemWorth": 10312214,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=15727015&width=420&height=420&format=png"
+  },
+  {
+    "name": "Heart Aviators",
+    "itemID": "4641680585",
+    "itemWorth": 10106608,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4641680585&width=420&height=420&format=png"
+  },
+  {
+    "name": "Steampunk Gentleman",
+    "itemID": "4684131530",
+    "itemWorth": 10158823,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4684131530&width=420&height=420&format=png"
+  },
+  {
+    "name": "Purple Camo Fashion Mask",
+    "itemID": "4904165761",
+    "itemWorth": 10075128,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4904165761&width=420&height=420&format=png"
+  },
+  {
+    "name": "Neon 80s Shades",
+    "itemID": "28554648",
+    "itemWorth": 10388538,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=28554648&width=420&height=420&format=png"
+  },
+  {
+    "name": "Pink Busock Mask",
+    "itemID": "4777985323",
+    "itemWorth": 10164936,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4777985323&width=420&height=420&format=png"
+  },
+  {
+    "name": "Pink Agent Glasses",
+    "itemID": "4875863452",
+    "itemWorth": 10075777,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4875863452&width=420&height=420&format=png"
+  },
+  {
+    "name": "Dark Busock Mask",
+    "itemID": "4775032165",
+    "itemWorth": 10099541,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4775032165&width=420&height=420&format=png"
+  },
+  {
+    "name": "Unleash The Beast Face Mask",
+    "itemID": "4753176646",
+    "itemWorth": 10351842,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4753176646&width=420&height=420&format=png"
+  },
+  {
+    "name": "Trash Club Mask",
+    "itemID": "4713293323",
+    "itemWorth": 10292899,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4713293323&width=420&height=420&format=png"
+  },
+  {
+    "name": "Funny Disguise",
+    "itemID": "10911979",
+    "itemWorth": 10046311,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=10911979&width=420&height=420&format=png"
+  },
+  {
+    "name": "Red Camo Fashion Mask",
+    "itemID": "4904148015",
+    "itemWorth": 10170255,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4904148015&width=420&height=420&format=png"
+  },
+  {
+    "name": "Moodswing: Secretly Epic",
+    "itemID": "4846099129",
+    "itemWorth": 10250752,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4846099129&width=420&height=420&format=png"
+  },
+  {
+    "name": "Orange Agent Glasses",
+    "itemID": "4875895114",
+    "itemWorth": 10189661,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4875895114&width=420&height=420&format=png"
+  },
+  {
+    "name": "Black Agent Glasses",
+    "itemID": "4875925250",
+    "itemWorth": 10055030,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4875925250&width=420&height=420&format=png"
+  },
+  {
+    "name": "Zipper Face Mask",
+    "itemID": "4753177471",
+    "itemWorth": 10342089,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4753177471&width=420&height=420&format=png"
+  },
+  {
+    "name": "Blue Eyes & Black Hearts Sunglasses",
+    "itemID": "4771935811",
+    "itemWorth": 10199643,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4771935811&width=420&height=420&format=png"
+  },
+  {
+    "name": "Red Agent Glasses",
+    "itemID": "4904615061",
+    "itemWorth": 10037948,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4904615061&width=420&height=420&format=png"
+  },
+  {
+    "name": "Hypebeast Fashion Mask",
+    "itemID": "4735399700",
+    "itemWorth": 10354019,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4735399700&width=420&height=420&format=png"
+  },
+  {
+    "name": "Thick Rimmed Glasses 3.0",
+    "itemID": "62690529",
+    "itemWorth": 10190973,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=62690529&width=420&height=420&format=png"
+  },
+  {
+    "name": "Mastermind Beard",
+    "itemID": "4566955443",
+    "itemWorth": 10301052,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4566955443&width=420&height=420&format=png"
+  },
+  {
+    "name": "Angry Ancient",
+    "itemID": "100932900",
+    "itemWorth": 10206779,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=100932900&width=420&height=420&format=png"
+  },
+  {
+    "name": "White Hypebeast Fashion Mask",
+    "itemID": "4771655763",
+    "itemWorth": 10096335,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4771655763&width=420&height=420&format=png"
+  },
+  {
+    "name": "Red-Camo Fashion Mask",
+    "itemID": "4735380953",
+    "itemWorth": 10379173,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4735380953&width=420&height=420&format=png"
+  },
+  {
+    "name": "White Fashion Mask",
+    "itemID": "4708785506",
+    "itemWorth": 10027810,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4708785506&width=420&height=420&format=png"
+  },
+  {
+    "name": "Mask of Conflict",
+    "itemID": "4821014779",
+    "itemWorth": 10194163,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4821014779&width=420&height=420&format=png"
+  },
+  {
+    "name": "Camo Fashion Mask",
+    "itemID": "4708786529",
+    "itemWorth": 10213120,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4708786529&width=420&height=420&format=png"
+  },
+  {
+    "name": "Endless Summer Shades",
+    "itemID": "119085797",
+    "itemWorth": 10332131,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=119085797&width=420&height=420&format=png"
+  },
+  {
+    "name": "Neon 90's Frames",
+    "itemID": "3210247673",
+    "itemWorth": 10325101,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=3210247673&width=420&height=420&format=png"
+  },
+  {
+    "name": "Secret Kid Wizard Glasses",
+    "itemID": "22070802",
+    "itemWorth": 10392468,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=22070802&width=420&height=420&format=png"
+  },
+  {
+    "name": "Black Clouts",
+    "itemID": "4539696080",
+    "itemWorth": 10372644,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4539696080&width=420&height=420&format=png"
+  },
+  {
+    "name": "Cartoon Reaper Mask",
+    "itemID": "4584673422",
+    "itemWorth": 10026550,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4584673422&width=420&height=420&format=png"
+  },
+  {
+    "name": "Graphite-Black Fashion Mask",
+    "itemID": "4708784614",
+    "itemWorth": 10059556,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4708784614&width=420&height=420&format=png"
+  },
+  {
+    "name": "Heat Vision Visor",
+    "itemID": "15857922",
+    "itemWorth": 10025362,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=15857922&width=420&height=420&format=png"
+  },
+  {
+    "name": "Bunny Fashion Mask",
+    "itemID": "4735388946",
+    "itemWorth": 10330027,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4735388946&width=420&height=420&format=png"
+  },
+  {
+    "name": "Neon 90's Shades",
+    "itemID": "3210246772",
+    "itemWorth": 10054429,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=3210246772&width=420&height=420&format=png"
+  },
+  {
+    "name": "Cool Tactical Shades",
+    "itemID": "4660619510",
+    "itemWorth": 10281191,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4660619510&width=420&height=420&format=png"
+  },
+  {
+    "name": "Tactical Shades",
+    "itemID": "4090154330",
+    "itemWorth": 10043991,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4090154330&width=420&height=420&format=png"
+  },
+  {
+    "name": "Sleek Tactical Shades",
+    "itemID": "4507911797",
+    "itemWorth": 10091425,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4507911797&width=420&height=420&format=png"
+  },
+  {
+    "name": "Horn Rimmed Glasses",
+    "itemID": "22151904",
+    "itemWorth": 10183975,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=22151904&width=420&height=420&format=png"
+  },
+  {
+    "name": "Crimson Shades",
+    "itemID": "68358795",
+    "itemWorth": 10020856,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=68358795&width=420&height=420&format=png"
+  },
+  {
+    "name": "Water Polo Fan Shades",
+    "itemID": "553872787",
+    "itemWorth": 10174278,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=553872787&width=420&height=420&format=png"
+  },
+  {
+    "name": "Royal Moustache",
+    "itemID": "4090337718",
+    "itemWorth": 10223465,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4090337718&width=420&height=420&format=png"
+  },
+  {
+    "name": "Green 8-Bit Snowboard Goggles",
+    "itemID": "102614876",
+    "itemWorth": 10174242,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=102614876&width=420&height=420&format=png"
+  },
+  {
+    "name": "Mysterious Blindfold",
+    "itemID": "4606984474",
+    "itemWorth": 10026427,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4606984474&width=420&height=420&format=png"
+  },
+  {
+    "name": "Drifter Shades",
+    "itemID": "63654916",
+    "itemWorth": 10246417,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=63654916&width=420&height=420&format=png"
+  },
+  {
+    "name": "💛White Heart Sunglasses 💛",
+    "itemID": "4528166464",
+    "itemWorth": 10106101,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4528166464&width=420&height=420&format=png"
+  },
+  {
+    "name": "Eyepatch",
+    "itemID": "74970669",
+    "itemWorth": 10128610,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=74970669&width=420&height=420&format=png"
+  },
+  {
+    "name": "Black and White Mystery Mask",
+    "itemID": "125377979",
+    "itemWorth": 10393597,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=125377979&width=420&height=420&format=png"
+  },
+  {
+    "name": "Arctic Camo Bandana",
+    "itemID": "4239289747",
+    "itemWorth": 10019102,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4239289747&width=420&height=420&format=png"
+  },
+  {
+    "name": "REGAL: Shades",
+    "itemID": "4708108064",
+    "itemWorth": 10061893,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4708108064&width=420&height=420&format=png"
+  },
+  {
+    "name": "Glitch Glasses",
+    "itemID": "2222365814",
+    "itemWorth": 10294335,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=2222365814&width=420&height=420&format=png"
+  },
+  {
+    "name": "Green Thick Rimmed Glasses",
+    "itemID": "111904232",
+    "itemWorth": 10061889,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=111904232&width=420&height=420&format=png"
+  },
+  {
+    "name": "Elegant Party Mask",
+    "itemID": "115303552",
+    "itemWorth": 10129699,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=115303552&width=420&height=420&format=png"
+  },
+  {
+    "name": "Parrot Beak",
+    "itemID": "1241147665",
+    "itemWorth": 10040529,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=1241147665&width=420&height=420&format=png"
+  },
+  {
+    "name": "Desert Camo Bandana",
+    "itemID": "4166068649",
+    "itemWorth": 10337150,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4166068649&width=420&height=420&format=png"
+  },
+  {
+    "name": "Clout Goggles\t",
+    "itemID": "4086458633",
+    "itemWorth": 10212693,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4086458633&width=420&height=420&format=png"
+  },
+  {
+    "name": "Broken Teal Bow Glasses",
+    "itemID": "498746174",
+    "itemWorth": 10066364,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=498746174&width=420&height=420&format=png"
+  },
+  {
+    "name": "Evil Blindfold",
+    "itemID": "4507127553",
+    "itemWorth": 10028473,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4507127553&width=420&height=420&format=png"
+  },
+  {
+    "name": "Smiling Dragon Mask",
+    "itemID": "4708223408",
+    "itemWorth": 10163256,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4708223408&width=420&height=420&format=png"
+  },
+  {
+    "name": "Crimson Dragonscale Shades",
+    "itemID": "3933085525",
+    "itemWorth": 10177050,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=3933085525&width=420&height=420&format=png"
+  },
+  {
+    "name": "Frigid Ancient Half Mask",
+    "itemID": "4517940943",
+    "itemWorth": 10083859,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4517940943&width=420&height=420&format=png"
+  },
+  {
+    "name": "Snorkel",
+    "itemID": "12229154",
+    "itemWorth": 10381362,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=12229154&width=420&height=420&format=png"
+  },
+  {
+    "name": "Nebula Eyes",
+    "itemID": "4655890445",
+    "itemWorth": 10084155,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4655890445&width=420&height=420&format=png"
+  },
+  {
+    "name": "Oversized Pink Glasses",
+    "itemID": "4684941414",
+    "itemWorth": 10334980,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4684941414&width=420&height=420&format=png"
+  },
+  {
+    "name": "Furrozen Friend",
+    "itemID": "568891046",
+    "itemWorth": 10248176,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=568891046&width=420&height=420&format=png"
+  },
+  {
+    "name": "Skeleton Bird Friend",
+    "itemID": "1088041428",
+    "itemWorth": 10160897,
+    "itemType": "shoulder accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=1088041428&width=420&height=420&format=png"
+  },
+  {
+    "name": "Imperial Mustache",
+    "itemID": "4080158863",
+    "itemWorth": 10385559,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4080158863&width=420&height=420&format=png"
+  },
+  {
+    "name": "Black Camo Bandana",
+    "itemID": "4238241252",
+    "itemWorth": 10116047,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4238241252&width=420&height=420&format=png"
+  },
+  {
+    "name": "Kawaii Knife",
+    "itemID": "4684948729",
+    "itemWorth": 10310434,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4684948729&width=420&height=420&format=png"
+  },
+  {
+    "name": "Neon Shutter Shades",
+    "itemID": "375818272",
+    "itemWorth": 10013775,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=375818272&width=420&height=420&format=png"
+  },
+  {
+    "name": "White Reading Glasses",
+    "itemID": "4753645975",
+    "itemWorth": 10347067,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4753645975&width=420&height=420&format=png"
+  },
+  {
+    "name": "Destructias Blindfold",
+    "itemID": "4549834894",
+    "itemWorth": 10279328,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4549834894&width=420&height=420&format=png"
+  },
+  {
+    "name": "Reading Glasses",
+    "itemID": "4197739997",
+    "itemWorth": 10288062,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4197739997&width=420&height=420&format=png"
+  },
+  {
+    "name": "Snow Camo Bandana",
+    "itemID": "4186854022",
+    "itemWorth": 10152350,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4186854022&width=420&height=420&format=png"
+  },
+  {
+    "name": "Bear Face Mask",
+    "itemID": "1192464705",
+    "itemWorth": 10138415,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=1192464705&width=420&height=420&format=png"
+  },
+  {
+    "name": "Masquerade King",
+    "itemID": "102621253",
+    "itemWorth": 10399116,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=102621253&width=420&height=420&format=png"
+  },
+  {
+    "name": "Space Debris Mouth Guard",
+    "itemID": "90996649",
+    "itemWorth": 10231939,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=90996649&width=420&height=420&format=png"
+  },
+  {
+    "name": "Woodland Camo Bandana",
+    "itemID": "4131616592",
+    "itemWorth": 10196092,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4131616592&width=420&height=420&format=png"
+  },
+  {
+    "name": "Pink Camo Bandana",
+    "itemID": "4202390464",
+    "itemWorth": 10295671,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4202390464&width=420&height=420&format=png"
+  },
+  {
+    "name": "Ancient Half Mask",
+    "itemID": "4504991662",
+    "itemWorth": 10320383,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4504991662&width=420&height=420&format=png"
+  },
+  {
+    "name": "8-Bit Snowboard Goggles",
+    "itemID": "583136875",
+    "itemWorth": 10124181,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=583136875&width=420&height=420&format=png"
+  },
+  {
+    "name": "Crying",
+    "itemID": "4465463368",
+    "itemWorth": 10112187,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4465463368&width=420&height=420&format=png"
+  },
+  {
+    "name": "Frost Warrior's Blindfold",
+    "itemID": "4510151281",
+    "itemWorth": 10298425,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4510151281&width=420&height=420&format=png"
+  },
+  {
+    "name": "Master of Disguise Mustache",
+    "itemID": "987022351",
+    "itemWorth": 10338483,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=987022351&width=420&height=420&format=png"
+  },
+  {
+    "name": "Neon Lightning Shades",
+    "itemID": "2705823072",
+    "itemWorth": 10338160,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=2705823072&width=420&height=420&format=png"
+  },
+  {
+    "name": "Damascus Bandana 2",
+    "itemID": "4735129323",
+    "itemWorth": 10255777,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4735129323&width=420&height=420&format=png"
+  },
+  {
+    "name": "Fire Breather",
+    "itemID": "97101297",
+    "itemWorth": 10232366,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=97101297&width=420&height=420&format=png"
+  },
+  {
+    "name": "Elf Goggles",
+    "itemID": "192557273",
+    "itemWorth": 10001628,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=192557273&width=420&height=420&format=png"
+  },
+  {
+    "name": "The Hippest Hipster",
+    "itemID": "136803340",
+    "itemWorth": 10350451,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=136803340&width=420&height=420&format=png"
+  },
+  {
+    "name": "White Mutton Chops",
+    "itemID": "4584652377",
+    "itemWorth": 10313976,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4584652377&width=420&height=420&format=png"
+  },
+  {
+    "name": "Black Butterfly Mask",
+    "itemID": "4645340891",
+    "itemWorth": 10023199,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4645340891&width=420&height=420&format=png"
+  },
+  {
+    "name": "Surgeon's Mask",
+    "itemID": "69225884",
+    "itemWorth": 10179277,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=69225884&width=420&height=420&format=png"
+  },
+  {
+    "name": "Ne'er Do Well",
+    "itemID": "113338816",
+    "itemWorth": 10148745,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=113338816&width=420&height=420&format=png"
+  },
+  {
+    "name": "Miss Monday Mask",
+    "itemID": "125369905",
+    "itemWorth": 10060744,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=125369905&width=420&height=420&format=png"
+  },
+  {
+    "name": "Bunny Face Mask",
+    "itemID": "1536058591",
+    "itemWorth": 10181335,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=1536058591&width=420&height=420&format=png"
+  },
+  {
+    "name": "Gear Gazers",
+    "itemID": "1380787420",
+    "itemWorth": 10304569,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=1380787420&width=420&height=420&format=png"
+  },
+  {
+    "name": "Radical Future Goggles",
+    "itemID": "1360044055",
+    "itemWorth": 10013689,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=1360044055&width=420&height=420&format=png"
+  },
+  {
+    "name": "Face Guard of the Fallen",
+    "itemID": "71486001",
+    "itemWorth": 10051171,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=71486001&width=420&height=420&format=png"
+  },
+  {
+    "name": "Black Button Eyes",
+    "itemID": "4086776634",
+    "itemWorth": 10097729,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4086776634&width=420&height=420&format=png"
+  },
+  {
+    "name": "Snake Eyes",
+    "itemID": "19380685",
+    "itemWorth": 10051923,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=19380685&width=420&height=420&format=png"
+  },
+  {
+    "name": "Toothy Bandana",
+    "itemID": "4604296987",
+    "itemWorth": 10109201,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4604296987&width=420&height=420&format=png"
+  },
+  {
+    "name": "Arcanist's Blindfold",
+    "itemID": "4549816657",
+    "itemWorth": 10318320,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4549816657&width=420&height=420&format=png"
+  },
+  {
+    "name": "Melting Neapolitan Sunglasses",
+    "itemID": "3403867185",
+    "itemWorth": 10197515,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=3403867185&width=420&height=420&format=png"
+  },
+  {
+    "name": "Sound Wave Mask",
+    "itemID": "857270189",
+    "itemWorth": 10353658,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=857270189&width=420&height=420&format=png"
+  },
+  {
+    "name": "Inventor Goggles",
+    "itemID": "81708919",
+    "itemWorth": 10042344,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=81708919&width=420&height=420&format=png"
+  },
+  {
+    "name": "Jewel of the East",
+    "itemID": "4317441701",
+    "itemWorth": 10181758,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4317441701&width=420&height=420&format=png"
+  },
+  {
+    "name": "Shark Mask",
+    "itemID": "3210457251",
+    "itemWorth": 10146196,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=3210457251&width=420&height=420&format=png"
+  },
+  {
+    "name": "Red Kawaii Mask",
+    "itemID": "4735624435",
+    "itemWorth": 10152274,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4735624435&width=420&height=420&format=png"
+  },
+  {
+    "name": "LED Glasses: Laughing",
+    "itemID": "4820446007",
+    "itemWorth": 10362761,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4820446007&width=420&height=420&format=png"
+  },
+  {
+    "name": "LED Glasses: Happy",
+    "itemID": "4820441870",
+    "itemWorth": 10090527,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4820441870&width=420&height=420&format=png"
+  },
+  {
+    "name": "Spiky Bionic Eye Patch",
+    "itemID": "63651769",
+    "itemWorth": 10040538,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=63651769&width=420&height=420&format=png"
+  },
+  {
+    "name": "Colonel Willoughby",
+    "itemID": "23658123",
+    "itemWorth": 10164825,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=23658123&width=420&height=420&format=png"
+  },
+  {
+    "name": "Orange Snorkel",
+    "itemID": "450557713",
+    "itemWorth": 10205272,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=450557713&width=420&height=420&format=png"
+  },
+  {
+    "name": "Kawaii Gas Mask",
+    "itemID": "4197764738",
+    "itemWorth": 10214301,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4197764738&width=420&height=420&format=png"
+  },
+  {
+    "name": "Green Snorkel",
+    "itemID": "915190007",
+    "itemWorth": 10068005,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=915190007&width=420&height=420&format=png"
+  },
+  {
+    "name": "White Kawaii Face Mask",
+    "itemID": "4772327953",
+    "itemWorth": 10005245,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4772327953&width=420&height=420&format=png"
+  },
+  {
+    "name": "Pink Kawaii Mask",
+    "itemID": "4684936668",
+    "itemWorth": 10319192,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4684936668&width=420&height=420&format=png"
+  },
+  {
+    "name": "Masque du Grand Nez",
+    "itemID": "13063331",
+    "itemWorth": 10001561,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=13063331&width=420&height=420&format=png"
+  },
+  {
+    "name": "White Kawaii Gas Mask",
+    "itemID": "4487786455",
+    "itemWorth": 10269853,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4487786455&width=420&height=420&format=png"
+  },
+  {
+    "name": "Inflatable Beard",
+    "itemID": "2735494166",
+    "itemWorth": 10237736,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=2735494166&width=420&height=420&format=png"
+  },
+  {
+    "name": "Black Kawaii Face Mask",
+    "itemID": "4772326198",
+    "itemWorth": 10386512,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4772326198&width=420&height=420&format=png"
+  },
+  {
+    "name": "Busock Mask of Conflict",
+    "itemID": "4771800371",
+    "itemWorth": 10372755,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4771800371&width=420&height=420&format=png"
+  },
+  {
+    "name": "Gold Aesthetical Glasses",
+    "itemID": "4258678687",
+    "itemWorth": 10235421,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4258678687&width=420&height=420&format=png"
+  },
+  {
+    "name": "Aesthetical Glasses",
+    "itemID": "4090206903",
+    "itemWorth": 10111305,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4090206903&width=420&height=420&format=png"
+  },
+  {
+    "name": "Camo Glasses",
+    "itemID": "116778374",
+    "itemWorth": 10257293,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=116778374&width=420&height=420&format=png"
+  },
+  {
+    "name": "Rogue Ninja Kitsune Mask",
+    "itemID": "2530927893",
+    "itemWorth": 10094381,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=2530927893&width=420&height=420&format=png"
+  },
+  {
+    "name": "Black Aesthetical Glasses",
+    "itemID": "4258680288",
+    "itemWorth": 10079308,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4258680288&width=420&height=420&format=png"
+  },
+  {
+    "name": "Rosey Gold Glasses",
+    "itemID": "4566940711",
+    "itemWorth": 10177812,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4566940711&width=420&height=420&format=png"
+  },
+  {
+    "name": "Blue Snorkel",
+    "itemID": "12313685",
+    "itemWorth": 10340668,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=12313685&width=420&height=420&format=png"
+  },
+  {
+    "name": "Rainbow Blindfold",
+    "itemID": "4095246294",
+    "itemWorth": 10158429,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4095246294&width=420&height=420&format=png"
+  },
+  {
+    "name": "Red Neon Goggles",
+    "itemID": "4110829099",
+    "itemWorth": 10162809,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4110829099&width=420&height=420&format=png"
+  },
+  {
+    "name": "Ancient Breathing Mask",
+    "itemID": "1301375566",
+    "itemWorth": 10242449,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=1301375566&width=420&height=420&format=png"
+  },
+  {
+    "name": "Snarling Snow Leopard Breathing Mask",
+    "itemID": "2620434748",
+    "itemWorth": 10264498,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=2620434748&width=420&height=420&format=png"
+  },
+  {
+    "name": "Neon Green Shutter Shades",
+    "itemID": "15318115",
+    "itemWorth": 10025985,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=15318115&width=420&height=420&format=png"
+  },
+  {
+    "name": "Blue Frames",
+    "itemID": "116778553",
+    "itemWorth": 10074194,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=116778553&width=420&height=420&format=png"
+  },
+  {
+    "name": "Bastet Mask",
+    "itemID": "4848472235",
+    "itemWorth": 10300709,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4848472235&width=420&height=420&format=png"
+  },
+  {
+    "name": "Andrew's Beard",
+    "itemID": "158066137",
+    "itemWorth": 10350781,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=158066137&width=420&height=420&format=png"
+  },
+  {
+    "name": "Incinerating Dragon Mask",
+    "itemID": "4708224262",
+    "itemWorth": 10074625,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4708224262&width=420&height=420&format=png"
+  },
+  {
+    "name": "Red Void Gas Mask",
+    "itemID": "4655871726",
+    "itemWorth": 10331651,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4655871726&width=420&height=420&format=png"
+  },
+  {
+    "name": "Blue Void Gas Mask",
+    "itemID": "4708697945",
+    "itemWorth": 10058223,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4708697945&width=420&height=420&format=png"
+  },
+  {
+    "name": "Reconnaissance Goggles",
+    "itemID": "58806803",
+    "itemWorth": 10186015,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=58806803&width=420&height=420&format=png"
+  },
+  {
+    "name": "Brilliant Snowboard Goggles",
+    "itemID": "139589227",
+    "itemWorth": 10252364,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=139589227&width=420&height=420&format=png"
+  },
+  {
+    "name": "Vintage Glasses",
+    "itemID": "4143016822",
+    "itemWorth": 10152318,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4143016822&width=420&height=420&format=png"
+  },
+  {
+    "name": "Obsidian Dragon Mask",
+    "itemID": "4708223827",
+    "itemWorth": 10373498,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4708223827&width=420&height=420&format=png"
+  },
+  {
+    "name": "Rucci Glasses",
+    "itemID": "4767447175",
+    "itemWorth": 10104982,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4767447175&width=420&height=420&format=png"
+  },
+  {
+    "name": "Beard of Fallen Leaves",
+    "itemID": "1149616729",
+    "itemWorth": 10084670,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=1149616729&width=420&height=420&format=png"
+  },
+  {
+    "name": "Squidcod's Squid Beard",
+    "itemID": "169444890",
+    "itemWorth": 10216722,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=169444890&width=420&height=420&format=png"
+  },
+  {
+    "name": "Purple Void Gas Mask",
+    "itemID": "4708696358",
+    "itemWorth": 10285937,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4708696358&width=420&height=420&format=png"
+  },
+  {
+    "name": "Beard of Flowers",
+    "itemID": "243773115",
+    "itemWorth": 10290550,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=243773115&width=420&height=420&format=png"
+  },
+  {
+    "name": "Anubis",
+    "itemID": "97101145",
+    "itemWorth": 10078616,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=97101145&width=420&height=420&format=png"
+  },
+  {
+    "name": "Sewn Smile",
+    "itemID": "4086785127",
+    "itemWorth": 10144524,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4086785127&width=420&height=420&format=png"
+  },
+  {
+    "name": "Sleek Vintage Glasses",
+    "itemID": "4545294588",
+    "itemWorth": 10066661,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4545294588&width=420&height=420&format=png"
+  },
+  {
+    "name": "Mutton Chops",
+    "itemID": "4080160778",
+    "itemWorth": 10006135,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4080160778&width=420&height=420&format=png"
+  },
+  {
+    "name": "Diego el Fuego",
+    "itemID": "20011820",
+    "itemWorth": 10228715,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=20011820&width=420&height=420&format=png"
+  },
+  {
+    "name": "Neon Punk Goggles",
+    "itemID": "356210516",
+    "itemWorth": 10125314,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=356210516&width=420&height=420&format=png"
+  },
+  {
+    "name": "Hipster Glasses",
+    "itemID": "125369932",
+    "itemWorth": 10387475,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=125369932&width=420&height=420&format=png"
+  },
+  {
+    "name": "Fate Vision",
+    "itemID": "4661985610",
+    "itemWorth": 10057892,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4661985610&width=420&height=420&format=png"
+  },
+  {
+    "name": "Fancy Goggles",
+    "itemID": "113326752",
+    "itemWorth": 10375924,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=113326752&width=420&height=420&format=png"
+  },
+  {
+    "name": "Ivory Face Guard",
+    "itemID": "63651094",
+    "itemWorth": 10399581,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=63651094&width=420&height=420&format=png"
+  },
+  {
+    "name": "Future Vision 2090",
+    "itemID": "27369217",
+    "itemWorth": 10269758,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=27369217&width=420&height=420&format=png"
+  },
+  {
+    "name": "Lizardface",
+    "itemID": "34330417",
+    "itemWorth": 10333718,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=34330417&width=420&height=420&format=png"
+  },
+  {
+    "name": "Amerisnorkels ",
+    "itemID": "60662771",
+    "itemWorth": 10250144,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=60662771&width=420&height=420&format=png"
+  },
+  {
+    "name": "Slick Shades",
+    "itemID": "4082616354",
+    "itemWorth": 10250628,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4082616354&width=420&height=420&format=png"
+  },
+  {
+    "name": "Ballistic Mandible",
+    "itemID": "4198292811",
+    "itemWorth": 10050700,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4198292811&width=420&height=420&format=png"
+  },
+  {
+    "name": "Retro 3D Glasses",
+    "itemID": "15726947",
+    "itemWorth": 10326526,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=15726947&width=420&height=420&format=png"
+  },
+  {
+    "name": "Corrupt Neon Goggles",
+    "itemID": "4570745896",
+    "itemWorth": 10191029,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4570745896&width=420&height=420&format=png"
+  },
+  {
+    "name": "RoRods",
+    "itemID": "4138932738",
+    "itemWorth": 10026465,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4138932738&width=420&height=420&format=png"
+  },
+  {
+    "name": "Third Eye Shades",
+    "itemID": "1402451989",
+    "itemWorth": 10049107,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=1402451989&width=420&height=420&format=png"
+  },
+  {
+    "name": "Gold Rectangle Shades",
+    "itemID": "4878059448",
+    "itemWorth": 10183039,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4878059448&width=420&height=420&format=png"
+  },
+  {
+    "name": "Sugar Egg Glasses",
+    "itemID": "557057062",
+    "itemWorth": 10288677,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=557057062&width=420&height=420&format=png"
+  },
+  {
+    "name": "Love to Party Shades",
+    "itemID": "145840743",
+    "itemWorth": 10244271,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=145840743&width=420&height=420&format=png"
+  },
+  {
+    "name": "Virus Oni Mask",
+    "itemID": "4588011476",
+    "itemWorth": 10171095,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4588011476&width=420&height=420&format=png"
+  },
+  {
+    "name": "Snowman Shades",
+    "itemID": "1229970852",
+    "itemWorth": 10218244,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=1229970852&width=420&height=420&format=png"
+  },
+  {
+    "name": "Skull Gas Mask",
+    "itemID": "4376031265",
+    "itemWorth": 10192658,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4376031265&width=420&height=420&format=png"
+  },
+  {
+    "name": "8-Bit Sleep Mask",
+    "itemID": "867851507",
+    "itemWorth": 10376289,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=867851507&width=420&height=420&format=png"
+  },
+  {
+    "name": "Obnoxious Spring Glasses",
+    "itemID": "3016155107",
+    "itemWorth": 10351575,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=3016155107&width=420&height=420&format=png"
+  },
+  {
+    "name": "Golden Crescent Moon Shades",
+    "itemID": "556820009",
+    "itemWorth": 10016366,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=556820009&width=420&height=420&format=png"
+  },
+  {
+    "name": "Cyber Oni Mask",
+    "itemID": "4528696257",
+    "itemWorth": 10144737,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4528696257&width=420&height=420&format=png"
+  },
+  {
+    "name": "Shattered Oni Mask",
+    "itemID": "4504977048",
+    "itemWorth": 10325236,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4504977048&width=420&height=420&format=png"
+  },
+  {
+    "name": "Black Iron Welder Hat",
+    "itemID": "2705864504",
+    "itemWorth": 10386518,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=2705864504&width=420&height=420&format=png"
+  },
+  {
+    "name": "Neon Nights: Manic Red",
+    "itemID": "4503970372",
+    "itemWorth": 10190010,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=4503970372&width=420&height=420&format=png"
+  },
+  {
+    "name": "Green Crazy Fuzzy Neon Goggles",
+    "itemID": "321345642",
+    "itemWorth": 10262450,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=321345642&width=420&height=420&format=png"
+  },
+  {
+    "name": "Thug Bandana",
+    "itemID": "62745127",
+    "itemWorth": 10138526,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=62745127&width=420&height=420&format=png"
+  },
+  {
+    "name": "Grim-Horned Mask of Tomorrow",
+    "itemID": "102623821",
+    "itemWorth": 10229782,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=102623821&width=420&height=420&format=png"
+  },
+  {
+    "name": "Oversized Glasses",
+    "itemID": "121390054",
+    "itemWorth": 10070955,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=121390054&width=420&height=420&format=png"
+  },
+  {
+    "name": "Cat Mouth Mask",
+    "itemID": "2830417823",
+    "itemWorth": 10186165,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=2830417823&width=420&height=420&format=png"
+  },
+  {
+    "name": "Virtual AR Shades 4000",
+    "itemID": "3533887971",
+    "itemWorth": 10391252,
+    "itemType": "face accessory",
+    "limited": false,
+    "img": "https://www.roblox.com/asset-thumbnail/image?assetId=3533887971&width=420&height=420&format=png"
+  }
+]
